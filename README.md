@@ -1,3 +1,4 @@
 # Costco_Data_Analysis_Project
 
-Total = quantity * unit_price * (1 - discount)
+Net sale = quantity * unit_price * (1 - discount)
+Gross profit = Net sale - Cogs
