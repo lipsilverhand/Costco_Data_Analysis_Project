@@ -2,4 +2,4 @@
 
 Net sale = quantity * unit_price * (1 - discount)
 
-Gross profit = Net sale - Cogs
+Gross profit = Net sale - Cogs * quantity
