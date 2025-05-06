@@ -1,0 +1,1619 @@
+product_id,product_name,category,sub-category, unit_price , cogs 
+PD-102,Apple Watch Series 6,Wearables,Smartwatches,$399.00 ,$329.00 
+PD-1029,Apple Watch SE,Wearables,Smartwatches,$279.00 ,$248.00 
+PD-104,Apple Watch Series 5,Wearables,Smartwatches,$399.00 ,$369.00 
+PD-1050,LG Electronics Tone+ HBS-,Technology,Phones,$35.71 ,$31.50 
+PD-1052,Innergie mMini Combo Duo ,Technology,Phones,$35.99 ,$35.49 
+PD-1053,AT&T 17929 Lendline Telep,Technology,Phones,$36.19 ,$35.51 
+PD-1054,Memorex Mini Travel Drive,Technology,Accessories,$36.24 ,$5.44 
+PD-1058,Lunatik TT5L-002 Taktik S,Technology,Phones,$36.74 ,$3.67 
+PD-1059,Jensen SMPS-640 - speaker,Technology,Phones,$36.78 ,$2.21 
+PD-1061,Logitech B530 USB Headset,Technology,Phones,$36.99 ,$19.60 
+PD-1063,Sony Micro Vault Click 8 ,Technology,Accessories,$37.59 ,$5.64 
+PD-1065,Grandstream GXP1160 VoIP ,Technology,Phones,$37.91 ,$17.44 
+PD-1076,Clearsounds A400,Technology,Phones,$39.59 ,$17.82 
+PD-1078,Logitech K350 2.4Ghz Wire,Technology,Accessories,$39.82 ,$16.32 
+PD-1079,Microsoft Sculpt Comfort ,Technology,Accessories,$39.95 ,$19.18 
+PD-1082,Kensington SlimBlade Note,Technology,Accessories,$39.99 ,$18.40 
+PD-1083,Microsoft Wireless Mobile,Technology,Accessories,$39.99 ,$11.20 
+PD-1087,Avaya 5410 Digital phone,Technology,Phones,$40.79 ,$6.53 
+PD-1094,Panasonic KX - TS880B Tel,Technology,Phones,$41.22 ,$6.18 
+PD-1097,AT&T 841000 Phone,Technology,Phones,$41.40 ,$15.73 
+PD-1098,Ricoh - Ink Collector Uni,Technology,Machines,$41.95 ,$7.55 
+PD-1099,netTALK DUO VoIP Telephon,Technology,Phones,$41.99 ,$12.18 
+PD-1102,Plantronics MX500i Earset,Technology,Phones,$42.95 ,$6.87 
+PD-1110,Plantronics Encore H101 D,Technology,Phones,$44.95 ,$19.33 
+PD-1116,Dexim XPower Skin Super-T,Technology,Phones,$46.79 ,$4.68 
+PD-1118,Logitech G105 Gaming Keyb,Technology,Accessories,$47.50 ,$46.31 
+PD-1122,Microsoft Arc Touch Mouse,Technology,Accessories,$47.96 ,$18.70 
+PD-1124,JBL Micro Wireless Portab,Technology,Phones,$47.99 ,$20.64 
+PD-1125,Logitech Wireless Anywher,Technology,Accessories,$47.99 ,$24.48 
+PD-1139,Belkin QODE FastFit Bluet,Technology,Accessories,$49.56 ,$26.76 
+PD-1144,Anker Astro 15000mAh USB ,Technology,Phones,$49.99 ,$22.00 
+PD-1145,Case Logic 2.4GHz Wireles,Technology,Accessories,$49.99 ,$22.50 
+PD-1146,Logitech Wireless Maratho,Technology,Accessories,$49.99 ,$4.50 
+PD-1147,Plantronics Audio 478 Ste,Technology,Accessories,$49.99 ,$17.00 
+PD-1148,Hypercom P1300 Pinpad,Technology,Accessories,$50.40 ,$22.18 
+PD-1151,Hewlett-Packard Deskjet F,Technology,Machines,$51.00 ,$2.55 
+PD-1156,Panasonic KX-TG6844B Expa,Technology,Phones,$52.79 ,$11.09 
+PD-1157,AT&T SB67148 SynJ,Technology,Phones,$52.79 ,$23.23 
+PD-1158,Plantronics 81402,Technology,Phones,$52.79 ,$11.09 
+PD-1159,Samsung Rugby III,Technology,Phones,$52.79 ,$4.75 
+PD-1160,Clarity 53712,Technology,Phones,$52.79 ,$8.97 
+PD-1161,i.Sound Portable Power - ,Technology,Phones,$52.99 ,$24.91 
+PD-1163,RCA Visys Integrated PBX ,Technology,Phones,$53.59 ,$10.18 
+PD-1172,Cisco SPA112 2 Port Phone,Technology,Phones,$54.95 ,$29.67 
+PD-1183,Sony Micro Vault Click 16,Technology,Accessories,$55.99 ,$21.28 
+PD-1184,iHome FM Clock Radio with,Technology,Phones,$55.99 ,$10.64 
+PD-1191,Imation Secure+ Hardware ,Technology,Accessories,$58.39 ,$29.20 
+PD-1193,WD My Passport Ultra 500G,Technology,Accessories,$59.00 ,$9.44 
+PD-1195,Avaya 4621SW VoIP phone,Technology,Phones,$59.16 ,$24.26 
+PD-1197,Kensington Orbit Wireless,Technology,Accessories,$59.99 ,$27.60 
+PD-1198,Logitech Illuminated - Ke,Technology,Accessories,$59.99 ,$8.40 
+PD-1199,Blue Parrot B250XT Profes,Technology,Phones,$59.99 ,$30.60 
+PD-1200,Okidata B401 Printer,Technology,Machines,$60.00 ,$6.00 
+PD-1212,Logitech G13 Programmable,Technology,Accessories,$63.99 ,$24.32 
+PD-1213,Mophie Juice Pack Helium ,Technology,Phones,$63.99 ,$28.80 
+PD-1214,Logitech G430 Surround So,Technology,Accessories,$63.99 ,$27.52 
+PD-1215,Razer Kraken PRO Over Ear,Technology,Accessories,$63.99 ,$16.64 
+PD-1220,Plantronics Voyager Pro H,Technology,Phones,$64.99 ,$3.90 
+PD-1223,Panasonic KX TS3282B Cord,Technology,Phones,$65.59 ,$6.56 
+PD-1224,Cisco SPA508G,Technology,Phones,$65.99 ,$28.38 
+PD-1226,Samsung Convoy 3,Technology,Phones,$66.59 ,$3.33 
+PD-1230,Nortel Networks T7316 E N,Technology,Phones,$67.99 ,$32.64 
+PD-1231,Panasonic KX TS3282W Cord,Technology,Phones,$67.99 ,$11.56 
+PD-1233,WD My Passport Ultra 1TB ,Technology,Accessories,$69.00 ,$29.67 
+PD-1235,Epson WorkForce WF-2530 A,Technology,Machines,$69.99 ,$32.90 
+PD-1236,Logitech G500s Laser Gami,Technology,Accessories,$69.99 ,$21.00 
+PD-1248,Geemarc AmpliPOWER60,Technology,Phones,$74.24 ,$33.41 
+PD-1249,Cisco 8961 IP Phone Charc,Technology,Machines,$74.98 ,$3.75 
+PD-1250,Kensington Expert Mouse O,Technology,Accessories,$75.99 ,$10.64 
+PD-1254,Pyle PMP37LED,Technology,Phones,$76.79 ,$42.24 
+PD-1255,Vtech CS6719,Technology,Phones,$76.79 ,$11.52 
+PD-1256,Cisco Desktop Collaborati,Technology,Machines,$77.16 ,$36.27 
+PD-1258,Enermax Aurora Lite Keybo,Technology,Accessories,$78.15 ,$30.48 
+PD-1261,First Data FD10 PIN Pad,Technology,Accessories,$79.00 ,$31.60 
+PD-1262,Panasonic KX T7731-B Digi,Technology,Phones,$79.99 ,$6.40 
+PD-1263,Logitech Wireless Perform,Technology,Accessories,$79.99 ,$16.80 
+PD-1264,Logitech G602 Wireless Ga,Technology,Accessories,$79.99 ,$32.00 
+PD-1265,RCA ViSYS 25423RE1 Corded,Technology,Phones,$79.99 ,$8.00 
+PD-1266,Logitech G600 MMO Gaming ,Technology,Accessories,$79.99 ,$16.00 
+PD-1267,Razer Kraken 7.1 Surround,Technology,Accessories,$79.99 ,$14.40 
+PD-1269,Classic Ivory Antique Tel,Technology,Phones,$80.39 ,$36.98 
+PD-1276,Cisco Small Business SPA ,Technology,Phones,$82.06 ,$16.41 
+PD-1283,Logitech Gaming G510s - K,Technology,Accessories,$84.99 ,$44.19 
+PD-1285,Plantronics Audio 995 Wir,Technology,Accessories,$87.96 ,$46.62 
+PD-1287,AT&T 1070 Corded Phone,Technology,Phones,$89.19 ,$33.89 
+PD-1290,Panasonic KX T7736-B Digi,Technology,Phones,$89.97 ,$9.00 
+PD-1292,Motorola Droid Maxx,Technology,Phones,$89.99 ,$24.30 
+PD-1293,NETGEAR N750 Dual Band Wi,Technology,Accessories,$90.00 ,$32.40 
+PD-1302,Jabra SPEAK 410,Technology,Phones,$93.99 ,$42.30 
+PD-1306,Canon PC170 Desktop Perso,Technology,Machines,$95.97 ,$7.68 
+PD-1317,Enermax Acrylux Wireless ,Technology,Accessories,$99.60 ,$51.79 
+PD-1318,StarTech.com 10/100 VDSL2,Technology,Machines,$99.89 ,$43.95 
+PD-1319,Logitech G700s Rechargeab,Technology,Accessories,$99.99 ,$5.00 
+PD-1320,Logitech Wireless Headset,Technology,Accessories,$99.99 ,$5.00 
+PD-1322,Xblue XB-1670-86 X16 Smal,Technology,Phones,$100.79 ,$49.39 
+PD-1323,Ooma Telo VoIP Home Phone,Technology,Phones,$100.79 ,$32.25 
+PD-1324,VTech DS6151,Technology,Phones,$100.79 ,$50.40 
+PD-1325,HTC One Mini,Technology,Phones,$100.79 ,$45.36 
+PD-1326,AT&T CL2909,Technology,Phones,$100.79 ,$31.25 
+PD-1327,BlackBerry Q10,Technology,Phones,$100.79 ,$38.30 
+PD-1332,Jabra BIZ 2300 Duo QD Duo,Technology,Phones,$101.59 ,$28.45 
+PD-1344,HP Officejet Pro 8600 e-A,Technology,Machines,$104.99 ,$14.70 
+PD-1345,Plantronics S12 Corded Te,Technology,Accessories,$107.79 ,$54.97 
+PD-1346,Logitech Mobile Speakerph,Technology,Phones,$107.98 ,$16.20 
+PD-1347,Google Nexus 5,Technology,Phones,$107.99 ,$15.12 
+PD-1348,Cisco 8x8 Inc. 6753i IP B,Technology,Phones,$107.99 ,$15.12 
+PD-1349,Cisco IP Phone 7961G VoIP,Technology,Phones,$108.76 ,$10.88 
+PD-1350,Plantronics CS 50-USB - h,Technology,Phones,$108.79 ,$44.60 
+PD-1354,AT&T 1080 Corded phone,Technology,Phones,$109.59 ,$55.89 
+PD-1361,Nortel Business Series Te,Technology,Phones,$111.19 ,$16.68 
+PD-1365,Hewlett-Packard Deskjet D,Technology,Machines,$111.99 ,$10.08 
+PD-1369,Brother MFC-9340CDW LED A,Technology,Machines,$114.00 ,$9.12 
+PD-1371,GE 30522EE2,Technology,Phones,$115.99 ,$41.76 
+PD-1373,Zebra GK420t Direct Therm,Technology,Machines,$117.29 ,$7.04 
+PD-1375,Polycom SoundPoint Pro SE,Technology,Phones,$118.99 ,$45.22 
+PD-1376,WD My Passport Ultra 2TB ,Technology,Accessories,$119.00 ,$34.51 
+PD-1379,Cherry 142-key Programmab,Technology,Accessories,$119.93 ,$7.20 
+PD-1380,Cisco SPA 502G IP Phone,Technology,Phones,$119.95 ,$23.99 
+PD-1381,Jabra Supreme Plus Driver,Technology,Phones,$119.99 ,$7.20 
+PD-1382,Polycom CX300 Desktop Pho,Technology,Phones,$119.99 ,$32.40 
+PD-1383,Lexmark MarkNet N8150 Wir,Technology,Machines,$120.59 ,$55.47 
+PD-1393,Nortel Meridian M3904 Pro,Technology,Phones,$123.19 ,$67.76 
+PD-1396,Motorola L703CM,Technology,Phones,$124.79 ,$21.21 
+PD-1397,Adtran 1202752G1,Technology,Phones,$125.99 ,$7.56 
+PD-1398,AT&T TR1909W,Technology,Phones,$125.99 ,$40.32 
+PD-1399,AT&T EL51110 DECT,Technology,Phones,$125.99 ,$44.10 
+PD-14,Maxell 4.7GB DVD+R 5/Pack,Technology,Accessories,$0.99 ,$0.39 
+PD-1400,Jawbone JAMBOX Wireless B,Technology,Phones,$126.39 ,$46.77 
+PD-1402,NETGEAR AC1750 Dual Band ,Technology,Accessories,$127.99 ,$40.96 
+PD-1403,DYMO CardScan Personal V9,Technology,Machines,$127.99 ,$55.04 
+PD-1404,Logitech Wireless Gaming ,Technology,Accessories,$127.99 ,$56.32 
+PD-1405,Digium D40 VoIP phone,Technology,Phones,$128.99 ,$61.92 
+PD-1407,Cisco IP Phone 7961G-GE V,Technology,Phones,$129.95 ,$22.09 
+PD-1409,Logitech G35 7.1-Channel ,Technology,Accessories,$129.99 ,$27.30 
+PD-1412,Imation Bio 2GB USB Flash,Technology,Accessories,$131.18 ,$23.61 
+PD-1414,Panasonic KX MC6040 Color,Technology,Machines,$134.99 ,$48.59 
+PD-1415,ShoreTel ShorePhone IP 23,Technology,Phones,$135.19 ,$41.91 
+PD-1417,Polycom SoundPoint IP 450,Technology,Phones,$135.52 ,$70.47 
+PD-1421,Jawbone MINI JAMBOX Wirel,Technology,Phones,$136.98 ,$73.97 
+PD-1423,Toshiba IPT2010-SD IP Tel,Technology,Phones,$138.99 ,$26.41 
+PD-1430,First Data TMFD35 PIN Pad,Technology,Accessories,$142.80 ,$29.99 
+PD-1440,Panasonic KX-TG9541B DECT,Technology,Phones,$149.99 ,$30.00 
+PD-1444,Mitel 5320 IP Phone VoIP ,Technology,Phones,$151.19 ,$69.55 
+PD-1449,Fellowes Powershred HS-44,Technology,Machines,$154.99 ,$68.20 
+PD-1451,Nortel Meridian M5316 Dig,Technology,Phones,$155.37 ,$69.92 
+PD-1453,Cisco SPA301,Technology,Phones,$155.99 ,$29.64 
+PD-1454,GE 30524EE4,Technology,Phones,$156.79 ,$43.90 
+PD-1457,ClearOne Communications C,Technology,Phones,$158.99 ,$31.80 
+PD-1458,Bose SoundLink Bluetooth ,Technology,Phones,$159.20 ,$15.92 
+PD-1459,Razer Tiamat Over Ear 7.1,Technology,Accessories,$159.99 ,$22.40 
+PD-1460,Canon PC-428 Personal Cop,Technology,Copiers,$159.99 ,$28.80 
+PD-1461,Aastra 57i VoIP phone,Technology,Phones,$161.61 ,$8.08 
+PD-1462,Jabra SPEAK 410 Multidevi,Technology,Phones,$164.79 ,$13.18 
+PD-1463,Ativa D5772 2-Line 5.8GHz,Technology,Phones,$164.99 ,$8.25 
+PD-1475,Logitech VX Revolution Co,Technology,Accessories,$179.99 ,$63.00 
+PD-1476,Polycom VVX 310 VoIP phon,Technology,Phones,$179.99 ,$46.80 
+PD-1485,Epson TM-T88V Direct Ther,Technology,Machines,$186.57 ,$13.06 
+PD-1486,Wireless Extenders zBoost,Technology,Phones,$188.99 ,$60.48 
+PD-1490,Panasonic KX-TG9471B,Technology,Phones,$195.99 ,$98.00 
+PD-1491,LG G3,Technology,Phones,$195.99 ,$92.12 
+PD-1492,Hewlett-Packard Deskjet 5,Technology,Machines,$199.04 ,$15.92 
+PD-1499,AT&T CL83451 4-Handset Te,Technology,Phones,$205.99 ,$103.00 
+PD-15,Maxell 4.7GB DVD-R 5/Pack,Technology,Accessories,$0.99 ,$0.41 
+PD-1500,Cisco Unified IP Phone 79,Technology,Phones,$205.99 ,$61.80 
+PD-1501,GE 2-Jack Phone Line Spli,Technology,Phones,$205.99 ,$28.84 
+PD-1505,Okidata C331dn Printer,Technology,Machines,$209.40 ,$87.95 
+PD-1507,Samsung Galaxy S III - 16,Technology,Phones,$209.99 ,$94.50 
+PD-1509,Aastra 6757i CT Wireless ,Technology,Phones,$215.44 ,$43.09 
+PD-1512,Samsung Galaxy Note 3,Technology,Phones,$219.99 ,$114.39 
+PD-1524,Polycom VoiceStation 500 ,Technology,Phones,$235.96 ,$75.51 
+PD-1526,Polycom CX600 IP Phone Vo,Technology,Phones,$239.96 ,$50.39 
+PD-1527,Brother DCP1000 Digital 3,Technology,Copiers,$239.99 ,$100.80 
+PD-1528,Hewlett Packard 310 Color,Technology,Copiers,$239.99 ,$117.60 
+PD-1533,Logitech diNovo Edge Keyb,Technology,Accessories,$249.99 ,$107.50 
+PD-1535,Logitech P710e Mobile Spe,Technology,Accessories,$257.49 ,$46.35 
+PD-1538,Plantronics CS510 - Over-,Technology,Accessories,$263.96 ,$52.79 
+PD-1542,Canon PC940 Copier,Technology,Copiers,$269.99 ,$148.50 
+PD-1543,Motorola Moto X,Technology,Phones,$271.99 ,$122.40 
+PD-1544,Mitel MiVoice 5330e IP Ph,Technology,Phones,$274.99 ,$41.25 
+PD-1546,Maxell iVDR EX 500GB Cart,Technology,Accessories,$275.54 ,$13.78 
+PD-1549,Konftel 250 Conference ph,Technology,Phones,$284.82 ,$91.14 
+PD-1550,Wilson Electronics DB Pro,Technology,Phones,$286.40 ,$148.93 
+PD-1551,Wilson SignalBoost 841262,Technology,Phones,$287.96 ,$100.79 
+PD-1559,Okidata MB491 Multifuncti,Technology,Machines,$319.99 ,$64.00 
+PD-1561,Okidata C610n Printer,Technology,Machines,$324.50 ,$19.47 
+PD-1563,Sharp 1540cs Digital Lase,Technology,Copiers,$329.99 ,$19.80 
+PD-1564,Logitech Z-906 Speaker sy,Technology,Accessories,$329.99 ,$23.10 
+PD-1567,Samsung Galaxy Mega 6.3,Technology,Phones,$335.99 ,$67.20 
+PD-1568,Canon Color ImageCLASS MF,Technology,Machines,$335.99 ,$154.56 
+PD-1569,Okidata B400 Printer,Technology,Machines,$343.20 ,$30.89 
+PD-1570,Cisco CP-7937G Unified IP,Technology,Machines,$347.85 ,$27.83 
+PD-1573,Hewlett Packard LaserJet ,Technology,Copiers,$359.99 ,$28.80 
+PD-1577,Samsung Galaxy S4 Mini,Technology,Phones,$375.99 ,$139.12 
+PD-1580,Apple iPhone 5,Technology,Phones,$389.90 ,$155.96 
+PD-1581,Sharp AL-1530CS Digital C,Technology,Copiers,$399.99 ,$160.00 
+PD-1582,Hewlett Packard 610 Color,Technology,Copiers,$399.99 ,$56.00 
+PD-1586,Polycom SoundStation2 EX ,Technology,Phones,$404.95 ,$80.99 
+PD-1589,Logitech G19 Programmable,Technology,Accessories,$421.95 ,$177.22 
+PD-1592,Cisco 9971 IP Video Phone,Technology,Machines,$440.00 ,$114.40 
+PD-1594,Okidata C610n Printer,Technology,Machines,$454.30 ,$40.89 
+PD-1595,Apple iPhone 5S,Technology,Phones,$455.99 ,$155.04 
+PD-1597,ClearOne CHATAttach 160 -,Technology,Phones,$495.99 ,$44.64 
+PD-1599,Canon Imageclass D680 Cop,Technology,Copiers,$559.99 ,$33.60 
+PD-1600,Canon Image Class D660 Co,Technology,Copiers,$599.99 ,$264.00 
+PD-1601,Bady BDG101FRU Card Print,Technology,Machines,$639.99 ,$313.60 
+PD-1602,"3D Systems Cube Printer, ",Technology,Machines,$650.00 ,$292.50 
+PD-1603,Ativa V4110MDD Micro-Cut ,Technology,Machines,$699.99 ,$105.00 
+PD-1604,Canon PC1060 Personal Las,Technology,Copiers,$699.99 ,$133.00 
+PD-1607,HP Designjet T520 Inkjet ,Technology,Machines,$875.00 ,$280.00 
+PD-1608,Cubify CubeX 3D Printer D,Technology,Machines,$900.00 ,$315.00 
+PD-1610,Lexmark MX611dhe Monochro,Technology,Machines,"$1,019.99 ",$510.00 
+PD-1612,Okidata MB760 Printer,Technology,Machines,"$1,119.20 ",$179.07 
+PD-1613,Zebra ZM400 Thermal Label,Technology,Machines,"$1,160.95 ",$603.69 
+PD-1614,"3D Systems Cube Printer, ",Technology,Machines,"$1,299.99 ",$468.00 
+PD-1617,Canon imageCLASS MF7460 M,Technology,Machines,"$1,995.99 ","$1,017.95 "
+PD-1618,Cubify CubeX 3D Printer T,Technology,Machines,"$2,000.00 ",$100.00 
+PD-1619,Canon imageCLASS 2200 Adv,Technology,Copiers,"$2,099.99 ",$420.00 
+PD-184,Imation USB 2.0 Swivel Fl,Technology,Accessories,$3.03 ,$1.21 
+PD-259,Cush Cases Heavy Duty Rug,Technology,Phones,$3.96 ,$1.66 
+PD-390,SanDisk Cruzer 4 GB USB F,Technology,Accessories,$5.19 ,$2.39 
+PD-407,QVS USB Car Charger 2-Por,Technology,Phones,$5.56 ,$0.95 
+PD-411,Verbatim 25 GB 6x Blu-ray,Technology,Accessories,$5.59 ,$0.78 
+PD-434,Kingston Digital DataTrav,Technology,Accessories,$5.95 ,$0.48 
+PD-435,Verbatim 25 GB 6x Blu-ray,Technology,Accessories,$5.96 ,$2.15 
+PD-447,Square Credit Card Reader,Technology,Phones,$5.99 ,$1.80 
+PD-504,Anker 24W Portable Micro ,Technology,Phones,$6.59 ,$3.03 
+PD-51,Maxell CD-R Discs,Technology,Accessories,$1.58 ,$0.27 
+PD-515,Sabrent 4-Port USB 2.0 Hu,Technology,Accessories,$6.79 ,$3.33 
+PD-520,Imation 30456 USB Flash D,Technology,Accessories,$6.90 ,$1.24 
+PD-526,AmazonBasics 3-Button USB,Technology,Accessories,$6.99 ,$1.47 
+PD-531,Kingston Digital DataTrav,Technology,Accessories,$7.16 ,$0.64 
+PD-559,"Maxell 74 Minute CDR, 10/",Technology,Accessories,$7.82 ,$0.47 
+PD-564,Square Credit Card Reader,Technology,Phones,$7.99 ,$3.28 
+PD-566,Mediabridge Sport Armband,Technology,Phones,$7.99 ,$3.60 
+PD-573,KeyTronic KT400U2 - Keybo,Technology,Accessories,$8.22 ,$4.03 
+PD-588,LF Elite 3D Dazzle Design,Technology,Phones,$8.72 ,$3.92 
+PD-593,Shocksock Galaxy S4 Armba,Technology,Phones,$8.76 ,$0.53 
+PD-594,Belkin Grip Candy Sheer C,Technology,Phones,$8.78 ,$3.34 
+PD-601,Belkin SportFit Armband F,Technology,Phones,$8.99 ,$1.89 
+PD-611,Memorex Mini Travel Drive,Technology,Accessories,$9.26 ,$3.98 
+PD-623,I Need's 3d Hello Kitty H,Technology,Phones,$9.57 ,$3.54 
+PD-630,KLD Oscar II Style Snap-o,Technology,Phones,$9.72 ,$0.97 
+PD-639,PowerGen Dual USB Car Cha,Technology,Phones,$9.99 ,$0.50 
+PD-655,Cyber Acoustics AC-202b S,Technology,Phones,$10.39 ,$1.97 
+PD-656,SanDisk Ultra 16 GB Micro,Technology,Accessories,$10.39 ,$1.87 
+PD-657,Memorex Micro Travel Driv,Technology,Accessories,$10.40 ,$5.51 
+PD-662,Memorex Micro Travel Driv,Technology,Accessories,$10.60 ,$0.95 
+PD-667,Rosewill 107 Normal Keys ,Technology,Accessories,$10.78 ,$5.18 
+PD-668,invisibleSHIELD by ZAGG S,Technology,Phones,$10.79 ,$4.97 
+PD-674,Memorex Froggy Flash Driv,Technology,Accessories,$10.99 ,$4.95 
+PD-683,Imation Swivel Flash Driv,Technology,Accessories,$11.37 ,$1.59 
+PD-686,SanDisk Cruzer 16 GB USB ,Technology,Accessories,$11.48 ,$2.41 
+PD-691,Verbatim 25 GB 6x Blu-ray,Technology,Accessories,$11.59 ,$4.64 
+PD-692,Belkin Standard 104 key U,Technology,Accessories,$11.67 ,$3.85 
+PD-699,Macally Suction Cup Mount,Technology,Phones,$11.95 ,$4.78 
+PD-702,iOttie HLCRIO102 Car Moun,Technology,Phones,$11.99 ,$1.80 
+PD-703,Belkin iPhone and iPad Li,Technology,Phones,$11.99 ,$3.96 
+PD-728,Maxell 4.7GB DVD+RW 3/Pac,Technology,Accessories,$12.74 ,$2.55 
+PD-730,Sony 16GB Class 10 Micro ,Technology,Accessories,$12.89 ,$4.25 
+PD-736,Logitech Desktop MK120 Mo,Technology,Accessories,$13.09 ,$2.22 
+PD-738,Hewlett-Packard 300S Scie,Technology,Machines,$13.11 ,$2.36 
+PD-748,ARKON Windshield Dashboar,Technology,Phones,$13.56 ,$4.47 
+PD-752,Memorex 25GB 6X Branded B,Technology,Accessories,$13.59 ,$2.04 
+PD-755,Sony Micro Vault Click 4 ,Technology,Accessories,$13.94 ,$2.37 
+PD-757,Maxell Pro 80 Minute CD-R,Technology,Accessories,$13.98 ,$5.73 
+PD-764,HP Standard 104 key PS/2 ,Technology,Accessories,$14.50 ,$4.79 
+PD-765,Logitech Keyboard K120,Technology,Accessories,$14.52 ,$2.32 
+PD-777,Imation 8gb Micro Traveld,Technology,Accessories,$15.00 ,$2.85 
+PD-798,Maxell 4.7GB DVD-RW 3/Pac,Technology,Accessories,$15.93 ,$5.73 
+PD-799,Cisco SPA525G2 IP Phone -,Technology,Phones,$15.96 ,$2.87 
+PD-800,Memorex Mini Travel Drive,Technology,Accessories,$15.97 ,$5.43 
+PD-802,Anker 36W 4-Port USB Wall,Technology,Phones,$15.99 ,$8.48 
+PD-804,Memorex Micro Travel Driv,Technology,Accessories,$15.99 ,$6.08 
+PD-805,iOttie XL Car Mount,Technology,Phones,$15.99 ,$1.12 
+PD-811,Maxell DVD-RAM Discs,Technology,Accessories,$16.48 ,$6.76 
+PD-813,Kensington K72356US Mouse,Technology,Accessories,$16.59 ,$2.99 
+PD-818,Kingston Digital DataTrav,Technology,Accessories,$16.95 ,$7.12 
+PD-827,Samsung HM1900 Bluetooth ,Technology,Phones,$17.56 ,$9.48 
+PD-832,Memorex Froggy Flash Driv,Technology,Accessories,$17.75 ,$6.92 
+PD-837,KeyTronic E03601U1 - Keyb,Technology,Accessories,$18.00 ,$1.62 
+PD-844,Motorola HK250 Universal ,Technology,Phones,$18.39 ,$8.28 
+PD-845,Verbatim 25 GB 6x Blu-ray,Technology,Accessories,$18.39 ,$9.20 
+PD-848,Imation Clip USB flash dr,Technology,Accessories,$18.80 ,$3.38 
+PD-853,SanDisk Cruzer 32 GB USB ,Technology,Accessories,$19.02 ,$3.99 
+PD-86,Sannysis Cute Owl Design ,Technology,Phones,$1.98 ,$0.12 
+PD-868,PureGear Roll-On Screen P,Technology,Phones,$19.99 ,$3.40 
+PD-869,OtterBox Commuter Series ,Technology,Phones,$19.99 ,$3.20 
+PD-870,Anker Ultra-Slim Mini Blu,Technology,Accessories,$19.99 ,$5.20 
+PD-871,Anker Astro Mini 3000mAh ,Technology,Phones,$19.99 ,$6.20 
+PD-872,Logitech LS21 Speaker Sys,Technology,Accessories,$19.99 ,$8.60 
+PD-873,Micropad Numeric Keypads,Technology,Accessories,$19.99 ,$8.80 
+PD-874,Memorex Mini Travel Drive,Technology,Accessories,$20.00 ,$3.60 
+PD-883,TRENDnet 56K USB 2.0 Phon,Technology,Accessories,$20.71 ,$4.14 
+PD-885,Enermax Briskie RF Wirele,Technology,Accessories,$20.77 ,$3.53 
+PD-889,Sony 32GB Class 10 Micro ,Technology,Accessories,$20.95 ,$3.98 
+PD-890,iKross Bluetooth Portable,Technology,Phones,$20.95 ,$8.17 
+PD-891,Maxell 74 Minute CD-R Spi,Technology,Accessories,$20.97 ,$3.36 
+PD-907,SanDisk Ultra 32 GB Micro,Technology,Accessories,$22.10 ,$9.50 
+PD-913,Maxell 4.7GB DVD-R,Technology,Accessories,$22.70 ,$8.85 
+PD-923,Logitech ClearChat Comfor,Technology,Accessories,$23.43 ,$9.37 
+PD-927,Motorla HX550 Universal B,Technology,Phones,$23.73 ,$12.34 
+PD-928,Jackery Bar Premium Fast-,Technology,Phones,$23.96 ,$1.20 
+PD-929,Microsoft Natural Ergonom,Technology,Accessories,$23.99 ,$1.44 
+PD-931,Logitech Trackman Marble ,Technology,Accessories,$23.99 ,$11.76 
+PD-932,BlueLounge Milo Smartphon,Technology,Phones,$23.99 ,$1.44 
+PD-933,Vtech AT&T CL2940 Corded ,Technology,Machines,$23.99 ,$1.68 
+PD-943,Seidio BD2-HK3IPH5-BK DIL,Technology,Phones,$24.81 ,$4.71 
+PD-944,Logitech Wireless Touch K,Technology,Accessories,$24.99 ,$1.50 
+PD-945,Micro Innovations USB RF ,Technology,Accessories,$25.00 ,$5.25 
+PD-960,Lenovo 17-Key USB Numeric,Technology,Accessories,$27.19 ,$11.42 
+PD-962,Panasonic Kx-TS550,Technology,Phones,$27.59 ,$11.04 
+PD-963,Motorola L804,Technology,Phones,$27.59 ,$9.93 
+PD-967,Plantronics Cordless Phon,Technology,Phones,$27.96 ,$4.75 
+PD-968,Speck Products Candyshell,Technology,Phones,$27.99 ,$11.20 
+PD-969,Apple EarPods with Remote,Technology,Phones,$27.99 ,$10.36 
+PD-970,Maxell LTO Ultrium - 800 ,Technology,Accessories,$27.99 ,$10.36 
+PD-971,Logitech Media Keyboard K,Technology,Accessories,$27.99 ,$12.32 
+PD-979,Sony 64GB Class 10 Micro ,Technology,Accessories,$28.79 ,$10.94 
+PD-980,AT&T CL82213,Technology,Phones,$28.99 ,$1.45 
+PD-981,SanDisk Cruzer 64 GB USB ,Technology,Accessories,$29.06 ,$13.37 
+PD-983,Memorex Micro Travel Driv,Technology,Accessories,$29.21 ,$2.92 
+PD-984,OtterBox Defender Series ,Technology,Phones,$29.58 ,$1.78 
+PD-987,Imation 32GB Pocket Pro U,Technology,Accessories,$29.95 ,$13.18 
+PD-989,Logitech 910-002974 M325 ,Technology,Accessories,$29.99 ,$9.60 
+PD-990,Nokia Lumia 521 (T-Mobile,Technology,Phones,$29.99 ,$11.40 
+PD-991,Belkin F8E887 USB Wired E,Technology,Accessories,$29.99 ,$9.90 
+PD-992,OtterBox Defender Series ,Technology,Phones,$29.99 ,$7.80 
+PD-1,Wilson Jones Easy Flow II,Office Supplies,Binders,$0.36 ,$0.14 
+PD-10,Zipper Ring Binder Pocket,Office Supplies,Binders,$0.94 ,$0.43 
+PD-100,Sanford Uni-Blazer View H,Office Supplies,Art,$2.20 ,$1.08 
+PD-1000,Fellowes Superior 10 Outl,Office Supplies,Appliances,$30.45 ,$12.18 
+PD-1001,Avery 477,Office Supplies,Labels,$30.53 ,$15.57 
+PD-1002,Surelock Post Binders,Office Supplies,Binders,$30.56 ,$9.47 
+PD-1004,Staple envelope,Office Supplies,Envelopes,$30.98 ,$5.89 
+PD-1005,Xerox 1925,Office Supplies,Paper,$30.98 ,$4.34 
+PD-1006,Euro-Pro Shark Turbo Vacu,Office Supplies,Appliances,$30.98 ,$4.65 
+PD-1007,Xerox 197,Office Supplies,Paper,$30.98 ,$17.04 
+PD-1008,Xerox 1979,Office Supplies,Paper,$30.98 ,$11.77 
+PD-1009,White Computer Printout P,Office Supplies,Paper,$31.01 ,$5.58 
+PD-101,Newell 311,Office Supplies,Art,$2.21 ,$1.08 
+PD-1010,Xerox 1892,Office Supplies,Paper,$31.01 ,$5.58 
+PD-1011,Premium Transparent Prese,Office Supplies,Binders,$31.02 ,$13.34 
+PD-1012,Eldon Base for stackable ,Office Supplies,Storage,$31.15 ,$4.98 
+PD-1014,Tuf-Vin Binders,Office Supplies,Binders,$31.58 ,$4.42 
+PD-1043,Acco Smartsocket Color-Co,Office Supplies,Appliances,$35.21 ,$18.31 
+PD-1044,Easy-staple paper,Office Supplies,Paper,$35.44 ,$18.43 
+PD-1045,Xerox 1880,Office Supplies,Paper,$35.44 ,$7.09 
+PD-1046,Xerox 1906,Office Supplies,Paper,$35.44 ,$13.47 
+PD-1047,Belkin OmniView SE Rackmo,Office Supplies,Storage,$35.48 ,$2.48 
+PD-1048,Steel Personal Filing/Pos,Office Supplies,Storage,$35.51 ,$17.40 
+PD-1049,Kensington 7 Outlet Maste,Office Supplies,Appliances,$35.60 ,$15.66 
+PD-1051,Tyvek  Top-Opening Peel &,Office Supplies,Envelopes,$35.94 ,$16.89 
+PD-1056,GBC VeloBinder Electric B,Office Supplies,Binders,$36.29 ,$9.07 
+PD-1057,Dixon Ticonderoga Core-Lo,Office Supplies,Art,$36.55 ,$2.19 
+PD-106,Binney & Smith inkTank Er,Office Supplies,Art,$2.28 ,$0.16 
+PD-1064,Harmony Air Purifier,Office Supplies,Appliances,$37.80 ,$12.10 
+PD-1067,Hunt PowerHouse Electric ,Office Supplies,Art,$37.98 ,$6.46 
+PD-1068,Xerox 1886,Office Supplies,Paper,$38.32 ,$18.39 
+PD-1069,Xerox 1937,Office Supplies,Paper,$38.43 ,$5.38 
+PD-107,Avery File Folder Labels,Office Supplies,Labels,$2.30 ,$0.90 
+PD-1070,Advantus Rolling Drawer O,Office Supplies,Storage,$38.48 ,$13.85 
+PD-1071,Xerox 1944,Office Supplies,Paper,$38.76 ,$19.77 
+PD-1073,Tennsco Industrial Shelvi,Office Supplies,Storage,$39.13 ,$17.61 
+PD-1074,Xerox 1916,Office Supplies,Paper,$39.15 ,$3.92 
+PD-1075,Belkin 325VA UPS Surge Pr,Office Supplies,Appliances,$39.48 ,$6.32 
+PD-1077,Letter Size File,Office Supplies,Storage,$39.70 ,$3.57 
+PD-108,Newell 346,Office Supplies,Art,$2.30 ,$0.74 
+PD-1080,Blue String-Tie & Button ,Office Supplies,Envelopes,$39.98 ,$6.80 
+PD-1086,Tripp Lite TLP810NET Broa,Office Supplies,Appliances,$40.78 ,$8.56 
+PD-1088,Sanford 52201 APSCO Elect,Office Supplies,Art,$40.97 ,$16.80 
+PD-109,"Acco Banker's Clasps, 5 3",Office Supplies,Fasteners,$2.30 ,$1.11 
+PD-1090,Belkin 8 Outlet Surge Pro,Office Supplies,Appliances,$40.98 ,$6.15 
+PD-1091,"Wilson Jones Ledger-Size,",Office Supplies,Binders,$40.98 ,$8.20 
+PD-1092,Xerox 1945,Office Supplies,Paper,$40.99 ,$4.10 
+PD-1093,"Belkin 19"" Vented Equipme",Office Supplies,Storage,$41.18 ,$20.59 
+PD-11,Insertable Tab Indexes Fo,Office Supplies,Binders,$0.95 ,$0.18 
+PD-110,Avery 474,Office Supplies,Labels,$2.30 ,$0.76 
+PD-1105,Trav-L-File Heavy-Duty Sh,Office Supplies,Storage,$43.57 ,$17.86 
+PD-1106,Xerox 1914,Office Supplies,Paper,$43.97 ,$23.74 
+PD-1107,Xerox 1913,Office Supplies,Paper,$44.38 ,$6.66 
+PD-1108,Eaton Premium Continuous-,Office Supplies,Paper,$44.38 ,$17.75 
+PD-1109,White Dual Perf Computer ,Office Supplies,Paper,$44.38 ,$8.43 
+PD-111,Avery 498,Office Supplies,Labels,$2.31 ,$1.18 
+PD-1113,Avery Arch Ring Binders,Office Supplies,Binders,$46.48 ,$19.52 
+PD-1114,Safco Commercial Shelving,Office Supplies,Storage,$46.51 ,$4.65 
+PD-1117,"Belkin 19"" Center-Weighte",Office Supplies,Storage,$47.18 ,$8.96 
+PD-1119,GBC Recycled Regency Comp,Office Supplies,Binders,$47.82 ,$17.69 
+PD-112,American Pencil,Office Supplies,Art,$2.33 ,$0.44 
+PD-1120,Computer Printout Paper w,Office Supplies,Paper,$47.90 ,$3.35 
+PD-1121,Xerox 1911,Office Supplies,Paper,$47.90 ,$18.20 
+PD-1123,Belkin 8 Outlet SurgeMast,Office Supplies,Appliances,$47.98 ,$23.03 
+PD-1126,14-7/8 x 11 Blue Bar Comp,Office Supplies,Paper,$48.04 ,$2.88 
+PD-1127,Xerox 1885,Office Supplies,Paper,$48.04 ,$8.17 
+PD-1128,Boston Heavy-Duty Trimlin,Office Supplies,Art,$48.20 ,$23.14 
+PD-113,Staples,Office Supplies,Fasteners,$2.34 ,$0.23 
+PD-1133,Xerox 1943,Office Supplies,Paper,$48.91 ,$19.56 
+PD-1134,Xerox 1891,Office Supplies,Paper,$48.91 ,$7.83 
+PD-1135,Fellowes Premier Superior,Office Supplies,Appliances,$48.92 ,$19.08 
+PD-1136,Xerox 1942,Office Supplies,Paper,$48.94 ,$8.32 
+PD-1137,Xerox 1890,Office Supplies,Paper,$48.94 ,$18.11 
+PD-1138,"Eureka Hand Vacuum, Bagle",Office Supplies,Appliances,$49.43 ,$4.94 
+PD-114,Newell 343,Office Supplies,Art,$2.35 ,$0.16 
+PD-1141,Cameo Buff Policy Envelop,Office Supplies,Envelopes,$49.78 ,$7.47 
+PD-1142,GBC DocuBind P100 Manual ,Office Supplies,Binders,$49.79 ,$19.92 
+PD-1149,Eureka The Boss Cordless ,Office Supplies,Appliances,$50.98 ,$5.10 
+PD-115,Newell 317,Office Supplies,Art,$2.35 ,$0.87 
+PD-1150,Fellowes PB200 Plastic Co,Office Supplies,Binders,$51.00 ,$18.87 
+PD-1155,"Strathmore #10 Envelopes,",Office Supplies,Envelopes,$52.71 ,$27.94 
+PD-116,"Redi-Strip #10 Envelopes,",Office Supplies,Envelopes,$2.36 ,$1.16 
+PD-1162,Gould Plastics 9-Pocket P,Office Supplies,Storage,$52.99 ,$13.78 
+PD-1164,Catalog Binders with Expa,Office Supplies,Binders,$53.82 ,$3.23 
+PD-1166,Fellowes Bankers Box Recy,Office Supplies,Storage,$53.98 ,$16.19 
+PD-1167,Desktop 3-Pocket Hot File,Office Supplies,Storage,$54.10 ,$9.20 
+PD-1169,Belkin 5 Outlet SurgeMast,Office Supplies,Appliances,$54.48 ,$10.90 
+PD-117,Staples,Office Supplies,Fasteners,$2.38 ,$0.91 
+PD-1173,Xerox 1940,Office Supplies,Paper,$54.96 ,$13.74 
+PD-1174,Green Bar Computer Printo,Office Supplies,Paper,$54.96 ,$3.85 
+PD-1175,Recycled Steel Personal F,Office Supplies,Storage,$55.29 ,$7.74 
+PD-1176,Xerox 194,Office Supplies,Paper,$55.48 ,$4.44 
+PD-1178,Acco Smartsocket Table Su,Office Supplies,Appliances,$55.85 ,$2.79 
+PD-118,Rediform Voice Mail Log B,Office Supplies,Paper,$2.38 ,$1.10 
+PD-1180,Xerox 1934,Office Supplies,Paper,$55.98 ,$5.60 
+PD-1181,Easy-staple paper,Office Supplies,Paper,$55.98 ,$11.20 
+PD-1182,Xerox 1882,Office Supplies,Paper,$55.98 ,$24.07 
+PD-1189,Sensible Storage WireTech,Office Supplies,Storage,$56.78 ,$9.65 
+PD-119,Avery Hidden Tab Dividers,Office Supplies,Binders,$2.38 ,$1.03 
+PD-1190,Recycled Steel Personal F,Office Supplies,Storage,$57.23 ,$26.90 
+PD-1192,3.6 Cubic Foot Counter He,Office Supplies,Appliances,$58.92 ,$5.30 
+PD-1194,Safco Industrial Shelving,Office Supplies,Storage,$59.08 ,$30.13 
+PD-1196,Advantus 10-Drawer Portab,Office Supplies,Storage,$59.76 ,$4.18 
+PD-12,Wilson Jones Turn Tabs Bi,Office Supplies,Binders,$0.96 ,$0.16 
+PD-120,Insertable Tab Post Binde,Office Supplies,Binders,$2.41 ,$0.72 
+PD-1204,Carina Media Storage Towe,Office Supplies,Storage,$60.98 ,$8.54 
+PD-1205,Tyvek Interoffice Envelop,Office Supplies,Envelopes,$60.98 ,$10.98 
+PD-1206,Holmes Replacement Filter,Office Supplies,Appliances,$61.93 ,$11.77 
+PD-1207,Fellowes Mobile File Cart,Office Supplies,Storage,$62.18 ,$33.58 
+PD-121,Smead Alpha-Z Color-Coded,Office Supplies,Labels,$2.46 ,$0.15 
+PD-1211,GBC ProClick Punch Bindin,Office Supplies,Binders,$63.98 ,$28.15 
+PD-1217,Space Solutions Commercia,Office Supplies,Storage,$64.65 ,$32.33 
+PD-1219,Fellowes Bankers Box Stax,Office Supplies,Storage,$64.98 ,$35.09 
+PD-122,Dixon Ticonderoga Maple C,Office Supplies,Art,$2.46 ,$1.25 
+PD-1221,Kensington 4 Outlet Maste,Office Supplies,Appliances,$65.06 ,$24.72 
+PD-1227,Airmail Envelopes,Office Supplies,Envelopes,$67.14 ,$29.54 
+PD-1228,Ames Color-File Green Dia,Office Supplies,Envelopes,$67.18 ,$32.92 
+PD-1229,GBC DocuBind TL200 Manual,Office Supplies,Binders,$67.19 ,$10.08 
+PD-123,Staples,Office Supplies,Fasteners,$2.47 ,$0.25 
+PD-1234,Belkin 8-Outlet Premiere ,Office Supplies,Appliances,$69.48 ,$9.73 
+PD-124,"Adams ""While You Were Out",Office Supplies,Paper,$2.51 ,$0.45 
+PD-1242,Safco Industrial Wire She,Office Supplies,Storage,$72.78 ,$20.38 
+PD-125,Avery 520,Office Supplies,Labels,$2.52 ,$1.08 
+PD-1253,Safco Industrial Wire She,Office Supplies,Storage,$76.79 ,$41.47 
+PD-1257,Fellowes Econo/Stor Drawe,Office Supplies,Storage,$77.54 ,$39.55 
+PD-1259,Honeywell Quietcare HEPA ,Office Supplies,Appliances,$78.65 ,$13.37 
+PD-126,Avery 502,Office Supplies,Labels,$2.52 ,$0.23 
+PD-1260,Space Solutions Industria,Office Supplies,Storage,$78.80 ,$13.40 
+PD-1268,Eureka The Boss Lite 10-A,Office Supplies,Appliances,$80.16 ,$32.06 
+PD-127,Avery 488,Office Supplies,Labels,$2.52 ,$1.11 
+PD-1270,APC 7 Outlet Network Surg,Office Supplies,Appliances,$80.48 ,$34.61 
+PD-1272,Belkin 8 Outlet SurgeMast,Office Supplies,Appliances,$80.98 ,$42.11 
+PD-1273,"Carina 42""Hx23 3/4""W Medi",Office Supplies,Storage,$80.98 ,$35.63 
+PD-1274,Carina Double Wide Media ,Office Supplies,Storage,$80.98 ,$21.86 
+PD-1277,Safco Steel Mobile File C,Office Supplies,Storage,$83.36 ,$36.68 
+PD-1278,Xerox 1915,Office Supplies,Paper,$83.88 ,$25.16 
+PD-128,Recycled Pressboard Repor,Office Supplies,Binders,$2.58 ,$0.54 
+PD-1286,Carina Mini System Audio ,Office Supplies,Storage,$88.78 ,$37.29 
+PD-1289,Fellowes Officeware Wire ,Office Supplies,Storage,$89.83 ,$35.03 
+PD-129,DIXON Oriole Pencils,Office Supplies,Art,$2.58 ,$1.01 
+PD-1294,Tyvek Side-Opening Peel &,Office Supplies,Envelopes,$90.48 ,$18.10 
+PD-13,Pressboard Covers with St,Office Supplies,Binders,$0.98 ,$0.17 
+PD-130,Bravo II Megaboss 12-Amp ,Office Supplies,Appliances,$2.60 ,$1.07 
+PD-1300,Gould Plastics 18-Pocket ,Office Supplies,Storage,$91.99 ,$34.04 
+PD-1301,Premier Electric Letter O,Office Supplies,Supplies,$92.69 ,$45.42 
+PD-1303,GBC ProClick 150 Presenta,Office Supplies,Binders,$94.79 ,$40.76 
+PD-1304,Fellowes Stor/Drawer Stee,Office Supplies,Storage,$95.43 ,$32.45 
+PD-1309,Iceberg Mobile Mega Data/,Office Supplies,Storage,$96.26 ,$51.02 
+PD-131,Avery 509,Office Supplies,Labels,$2.61 ,$0.18 
+PD-1312,Dot Matrix Printer Tape R,Office Supplies,Labels,$98.31 ,$19.66 
+PD-1313,GBC Therma-A-Bind 250T El,Office Supplies,Binders,$98.39 ,$6.89 
+PD-1314,Recycled Data-Pak for Arc,Office Supplies,Storage,$98.79 ,$32.60 
+PD-132,Permanent Self-Adhesive F,Office Supplies,Labels,$2.61 ,$0.42 
+PD-133,Cardinal Slant-D Ring Bin,Office Supplies,Binders,$2.61 ,$0.16 
+PD-1330,Avanti 1.7 Cu. Ft. Refrig,Office Supplies,Appliances,$100.98 ,$5.05 
+PD-1331,Tennsco Regal Shelving Un,Office Supplies,Storage,$101.41 ,$38.54 
+PD-134,Avery 494,Office Supplies,Labels,$2.61 ,$1.02 
+PD-1340,Eureka The Boss Plus 12-A,Office Supplies,Appliances,$104.65 ,$34.53 
+PD-1342,Multicolor Computer Print,Office Supplies,Paper,$104.85 ,$47.18 
+PD-1343,Xerox 189,Office Supplies,Paper,$104.85 ,$22.02 
+PD-135,Newell 337,Office Supplies,Art,$2.62 ,$0.26 
+PD-1355,SAFCO Commercial Wire She,Office Supplies,Storage,$110.51 ,$17.68 
+PD-1358,"Stur-D-Stor Shelving, Ver",Office Supplies,Storage,$110.98 ,$54.38 
+PD-136,Newell 313,Office Supplies,Art,$2.62 ,$0.45 
+PD-1360,Fellowes Recycled Storage,Office Supplies,Storage,$111.03 ,$18.88 
+PD-1368,SAFCO Boltless Steel Shel,Office Supplies,Storage,$113.64 ,$43.18 
+PD-137,Crayola Colored Pencils,Office Supplies,Art,$2.62 ,$1.44 
+PD-1370,Space Solutions HD Indust,Office Supplies,Storage,$114.97 ,$17.25 
+PD-1377,Compact Automatic Electri,Office Supplies,Supplies,$119.31 ,$20.28 
+PD-138,Newell 350,Office Supplies,Art,$2.62 ,$0.92 
+PD-139,Acco Hot Clips Clips to G,Office Supplies,Fasteners,$2.63 ,$1.05 
+PD-1395,Honeywell Enviracaire Por,Office Supplies,Appliances,$123.38 ,$57.99 
+PD-140,Storex Flexible Poly Bind,Office Supplies,Binders,$2.64 ,$0.98 
+PD-1406,Fellowes Super Stor/Drawe,Office Supplies,Storage,$129.24 ,$59.45 
+PD-141,GBC Instant Index System ,Office Supplies,Binders,$2.66 ,$1.01 
+PD-1411,Mini 13-1/2 Capacity Data,Office Supplies,Storage,$130.87 ,$61.51 
+PD-1416,Tennsco Stur-D-Stor Boltl,Office Supplies,Storage,$135.31 ,$18.94 
+PD-142,Economy #2 Pencils,Office Supplies,Art,$2.66 ,$1.33 
+PD-1422,Ibico EB-19 Dual Function,Office Supplies,Binders,$138.39 ,$29.06 
+PD-1424,Hunt BOSTON Model 1606 Hi,Office Supplies,Art,$139.13 ,$65.39 
+PD-1426,Fellowes Strictly Busines,Office Supplies,Storage,$140.85 ,$52.11 
+PD-1427,Fellowes High-Stak Drawer,Office Supplies,Storage,$140.95 ,$63.43 
+PD-1429,"Hot File 7-Pocket, Floor ",Office Supplies,Storage,$142.78 ,$64.25 
+PD-143,Blackstonian Pencils,Office Supplies,Art,$2.67 ,$1.07 
+PD-1431,Letter Size Cart,Office Supplies,Storage,$142.86 ,$65.72 
+PD-144,Avery Fluorescent Highlig,Office Supplies,Art,$2.67 ,$0.67 
+PD-145,Cardinal Poly Pocket Divi,Office Supplies,Binders,$2.69 ,$1.18 
+PD-1450,"Dual Level, Single-Width ",Office Supplies,Storage,$155.06 ,$65.13 
+PD-1456,GBC DocuBind 300 Electric,Office Supplies,Binders,$157.79 ,$28.40 
+PD-146,SpineVue Locking Slant-D ,Office Supplies,Binders,$2.74 ,$0.58 
+PD-1464,Economy Rollaway Files,Office Supplies,Storage,$165.20 ,$82.60 
+PD-1465,"1.7 Cubic Foot Compact ""C",Office Supplies,Appliances,$166.53 ,$59.95 
+PD-1466,Office Impressions Heavy ,Office Supplies,Storage,$167.27 ,$66.91 
+PD-1468,24 Capacity Maxi Data Bin,Office Supplies,Storage,$168.44 ,$35.37 
+PD-147,Rogers Handheld Barrel Pe,Office Supplies,Art,$2.74 ,$0.14 
+PD-1477,Tennsco Double-Tier Locke,Office Supplies,Storage,$180.02 ,$10.80 
+PD-1478,Standard Rollaway File wi,Office Supplies,Storage,$180.19 ,$14.42 
+PD-148,Prang Drawing Pencil Set,Office Supplies,Art,$2.78 ,$1.45 
+PD-1481,Avanti 4.4 Cu. Ft. Refrig,Office Supplies,Appliances,$180.98 ,$38.01 
+PD-1483,Adjustable Depth Letter/L,Office Supplies,Storage,$181.46 ,$14.52 
+PD-1488,Fellowes Staxonsteel Draw,Office Supplies,Storage,$193.17 ,$11.59 
+PD-149,Newell 318,Office Supplies,Art,$2.78 ,$1.45 
+PD-150,Newell 344,Office Supplies,Art,$2.78 ,$0.70 
+PD-1503,Kensington 7 Outlet Maste,Office Supplies,Appliances,$207.48 ,$43.57 
+PD-151,Acco Side-Punched Convent,Office Supplies,Supplies,$2.78 ,$1.08 
+PD-1514,Sanyo 2.5 Cubic Foot Mid-,Office Supplies,Appliances,$223.85 ,$96.25 
+PD-152,Hoover Commercial Lightwe,Office Supplies,Appliances,$2.78 ,$0.45 
+PD-1520,GBC Ibimaster 500 Manual ,Office Supplies,Binders,$228.29 ,$45.66 
+PD-1529,Premier Automatic Letter ,Office Supplies,Supplies,$240.37 ,$132.20 
+PD-153,OIC Bulk Pack Metal Binde,Office Supplies,Fasteners,$2.79 ,$0.28 
+PD-1531,Ibico Hi-Tech Manual Bind,Office Supplies,Binders,$243.99 ,$63.44 
+PD-154,Self-Adhesive Ring Binder,Office Supplies,Binders,$2.82 ,$1.01 
+PD-1540,Tennsco 6- and 18-Compart,Office Supplies,Storage,$265.17 ,$53.03 
+PD-1545,Honeywell Enviracaire Por,Office Supplies,Appliances,$275.37 ,$79.86 
+PD-1547,Tennsco Snap-Together Ope,Office Supplies,Storage,$279.48 ,$44.72 
+PD-155,SANFORD Liquid Accent Tan,Office Supplies,Art,$2.84 ,$0.60 
+PD-1552,Hoover Upright Vacuum Wit,Office Supplies,Appliances,$289.53 ,$147.66 
+PD-1553,Sauder Facets Collection ,Office Supplies,Storage,$296.78 ,$94.97 
+PD-1556,Honeywell Enviracaire Por,Office Supplies,Appliances,$300.65 ,$57.12 
+PD-156,Acco Clips to Go Binder C,Office Supplies,Fasteners,$2.84 ,$0.28 
+PD-1562,Sanyo Counter Height Refr,Office Supplies,Appliances,$328.14 ,$55.78 
+PD-157,"OIC Colored Binder Clips,",Office Supplies,Fasteners,$2.86 ,$1.52 
+PD-1572,Hoover Shoulder Vac Comme,Office Supplies,Appliances,$357.82 ,$171.75 
+PD-1574,Hoover WindTunnel Plus Ca,Office Supplies,Appliances,$363.25 ,$36.33 
+PD-1575,Ibico Ibimaster 300 Manua,Office Supplies,Binders,$367.99 ,$143.52 
+PD-1576,Tennsco Single-Tier Locke,Office Supplies,Storage,$375.34 ,$142.63 
+PD-1579,Fellowes PB300 Plastic Co,Office Supplies,Binders,$387.99 ,$155.20 
+PD-158,Avery Premier Heavy-Duty ,Office Supplies,Binders,$2.86 ,$1.54 
+PD-1587,Deluxe Rollaway Locking F,Office Supplies,Storage,$415.88 ,$174.67 
+PD-1588,Smead Adjustable Mobile F,Office Supplies,Storage,$419.19 ,$125.76 
+PD-159,Avery Durable Binders,Office Supplies,Binders,$2.88 ,$1.44 
+PD-1598,Tennsco 16-Compartment Lo,Office Supplies,Storage,$518.31 ,$46.65 
+PD-16,"OIC Binder Clips, Mini, 1",Office Supplies,Fasteners,$0.99 ,$0.46 
+PD-160,Avery 514,Office Supplies,Labels,$2.88 ,$1.30 
+PD-1605,GBC DocuBind TL300 Electr,Office Supplies,Binders,$717.59 ,$121.99 
+PD-1606,Martin Yale Chadless Open,Office Supplies,Supplies,$832.81 ,$49.97 
+PD-1609,Fellowes PB500 Electric P,Office Supplies,Binders,"$1,016.79 ",$427.05 
+PD-161,Avery 49,Office Supplies,Labels,$2.88 ,$1.56 
+PD-1611,GBC DocuBind P400 Electri,Office Supplies,Binders,"$1,088.79 ",$174.21 
+PD-1615,High Speed Automatic Elec,Office Supplies,Supplies,"$1,637.53 ",$409.38 
+PD-1616,Ibico EPK-21 Electric Bin,Office Supplies,Binders,"$1,889.99 ",$567.00 
+PD-162,Newell 335,Office Supplies,Art,$2.88 ,$0.14 
+PD-163,Newell 32,Office Supplies,Art,$2.88 ,$1.01 
+PD-164,Avery 492,Office Supplies,Labels,$2.88 ,$0.58 
+PD-165,Avery 512,Office Supplies,Labels,$2.89 ,$0.20 
+PD-166,Staple-on labels,Office Supplies,Labels,$2.89 ,$1.21 
+PD-167,Avery 482,Office Supplies,Labels,$2.89 ,$1.59 
+PD-168,"GBC White Gloss Covers, P",Office Supplies,Binders,$2.90 ,$0.81 
+PD-169,Convenience Packs of Busi,Office Supplies,Envelopes,$2.90 ,$0.17 
+PD-17,Acco Economy Flexible Pol,Office Supplies,Binders,$1.04 ,$0.19 
+PD-171,Acme Value Line Scissors,Office Supplies,Supplies,$2.92 ,$1.11 
+PD-172,Newell 332,Office Supplies,Art,$2.94 ,$0.53 
+PD-173,Prang Colored Pencils,Office Supplies,Art,$2.94 ,$1.56 
+PD-174,Black Avery Memo-Size 3-R,Office Supplies,Binders,$2.94 ,$0.50 
+PD-175,Newell 338,Office Supplies,Art,$2.94 ,$1.41 
+PD-176,Avery 501,Office Supplies,Labels,$2.95 ,$0.44 
+PD-177,Avery 52,Office Supplies,Labels,$2.95 ,$1.27 
+PD-178,"""While you Were Out"" Mess",Office Supplies,Paper,$2.97 ,$1.60 
+PD-179,"Premium Writing Pencils, ",Office Supplies,Art,$2.98 ,$1.46 
+PD-18,Wilson Jones Impact Binde,Office Supplies,Binders,$1.04 ,$0.51 
+PD-180,Recycled Easel Ring Binde,Office Supplies,Binders,$2.98 ,$0.51 
+PD-181,Dixon Ticonderoga Pencils,Office Supplies,Art,$2.98 ,$0.18 
+PD-182,Woodgrain Magazine Files ,Office Supplies,Storage,$2.98 ,$1.28 
+PD-183,Accohide Poly Flexible Ri,Office Supplies,Binders,$2.99 ,$0.42 
+PD-185,Manco Dry-Lighter Erasabl,Office Supplies,Art,$3.04 ,$1.16 
+PD-186,Acco Pressboard Covers wi,Office Supplies,Binders,$3.05 ,$0.61 
+PD-187,Acco Pressboard Covers wi,Office Supplies,Binders,$3.05 ,$1.31 
+PD-188,Avery 481,Office Supplies,Labels,$3.08 ,$0.25 
+PD-19,OIC Thumb-Tacks,Office Supplies,Fasteners,$1.14 ,$0.18 
+PD-190,Avery 511,Office Supplies,Labels,$3.08 ,$1.42 
+PD-191,Avery 497,Office Supplies,Labels,$3.08 ,$1.69 
+PD-192,Peel & Seel Envelopes,Office Supplies,Envelopes,$3.10 ,$1.65 
+PD-193,Serrated Blade or Curved ,Office Supplies,Supplies,$3.14 ,$1.07 
+PD-194,Staples,Office Supplies,Fasteners,$3.14 ,$0.53 
+PD-195,Self-Adhesive Removable L,Office Supplies,Labels,$3.15 ,$0.44 
+PD-196,Avery 518,Office Supplies,Labels,$3.15 ,$0.19 
+PD-197,Ibico Presentation Index ,Office Supplies,Binders,$3.18 ,$0.25 
+PD-198,Fluorescent Highlighters ,Office Supplies,Art,$3.18 ,$1.27 
+PD-199,Heavy-Duty E-Z-D Binders,Office Supplies,Binders,$3.27 ,$0.52 
+PD-2,Round Ring Binders,Office Supplies,Binders,$0.42 ,$0.12 
+PD-20,Fellowes Black Plastic Co,Office Supplies,Binders,$1.16 ,$0.50 
+PD-200,Newell 342,Office Supplies,Art,$3.28 ,$1.57 
+PD-201,Newell 329,Office Supplies,Art,$3.28 ,$0.16 
+PD-202,Sanford Colorific Eraseab,Office Supplies,Art,$3.28 ,$1.74 
+PD-203,Newell 321,Office Supplies,Art,$3.28 ,$0.33 
+PD-204,Newell 351,Office Supplies,Art,$3.28 ,$1.71 
+PD-205,Newell 348,Office Supplies,Art,$3.28 ,$0.69 
+PD-206,Newell 35,Office Supplies,Art,$3.28 ,$1.67 
+PD-207,Tops Wirebound Message Lo,Office Supplies,Paper,$3.29 ,$0.53 
+PD-208,Avery 476,Office Supplies,Labels,$3.30 ,$0.46 
+PD-209,"ACCOHIDE 3-Ring Binder, B",Office Supplies,Binders,$3.30 ,$0.63 
+PD-21,Avery Binder Labels,Office Supplies,Binders,$1.17 ,$0.56 
+PD-210,#10 Gummed Flap White Env,Office Supplies,Envelopes,$3.30 ,$0.26 
+PD-211,BIC Brite Liner Highlight,Office Supplies,Art,$3.31 ,$1.42 
+PD-212,Avery Durable Slant Ring ,Office Supplies,Binders,$3.34 ,$0.70 
+PD-216,Avoid Verbal Orders Carbo,Office Supplies,Paper,$3.38 ,$1.69 
+PD-217,Avery Hi-Liter Fluorescen,Office Supplies,Art,$3.38 ,$1.76 
+PD-218,Newell 320,Office Supplies,Art,$3.42 ,$0.21 
+PD-219,Xerox 1900,Office Supplies,Paper,$3.42 ,$0.55 
+PD-22,Binder Clips by OIC,Office Supplies,Fasteners,$1.18 ,$0.51 
+PD-220,GBC Plasticlear Binding C,Office Supplies,Binders,$3.44 ,$1.76 
+PD-221,Eureka Sanitaire  Multi-P,Office Supplies,Appliances,$3.50 ,$1.43 
+PD-222,Bionaire 99.97% HEPA Air ,Office Supplies,Appliances,$3.50 ,$0.35 
+PD-223,Grip Seal Envelopes,Office Supplies,Envelopes,$3.54 ,$1.73 
+PD-224,Avery Poly Binder Pockets,Office Supplies,Binders,$3.58 ,$1.72 
+PD-225,OIC Binder Clips,Office Supplies,Fasteners,$3.58 ,$1.79 
+PD-226,Avery Non-Stick Binders,Office Supplies,Binders,$3.59 ,$1.69 
+PD-227,Telephone Message Books w,Office Supplies,Paper,$3.60 ,$0.65 
+PD-228,"Avery Durable Plastic 1"" ",Office Supplies,Binders,$3.63 ,$0.22 
+PD-229,Ampad Poly Cover Wireboun,Office Supplies,Paper,$3.63 ,$1.96 
+PD-23,Avery Durable Slant Ring ,Office Supplies,Binders,$1.19 ,$0.19 
+PD-230,Loose Memo Sheets,Office Supplies,Paper,$3.65 ,$1.57 
+PD-231,Staple remover,Office Supplies,Supplies,$3.68 ,$0.52 
+PD-232,Avery 487,Office Supplies,Labels,$3.69 ,$1.48 
+PD-233,Colored Envelopes,Office Supplies,Envelopes,$3.69 ,$1.48 
+PD-234,Avery 517,Office Supplies,Labels,$3.69 ,$1.77 
+PD-235,Binney & Smith Crayola Me,Office Supplies,Art,$3.70 ,$1.15 
+PD-237,Rubber Band Ball,Office Supplies,Fasteners,$3.74 ,$0.34 
+PD-238,Avery 480,Office Supplies,Labels,$3.75 ,$0.64 
+PD-239,Smead Alpha-Z Color-Coded,Office Supplies,Labels,$3.75 ,$0.53 
+PD-24,Prestige Round Ring Binde,Office Supplies,Binders,$1.22 ,$0.06 
+PD-240,Avery 496,Office Supplies,Labels,$3.75 ,$0.71 
+PD-241,Plymouth Boxed Rubber Ban,Office Supplies,Fasteners,$3.77 ,$0.26 
+PD-242,Sterling Rubber Bands by ,Office Supplies,Fasteners,$3.77 ,$0.19 
+PD-243,"While You Were Out Pads, ",Office Supplies,Paper,$3.78 ,$1.97 
+PD-244,Staples,Office Supplies,Fasteners,$3.78 ,$2.04 
+PD-245,Durable Pressboard Binder,Office Supplies,Binders,$3.80 ,$0.34 
+PD-246,Acco Hanging Data Binders,Office Supplies,Binders,$3.81 ,$1.52 
+PD-247,Acco Pressboard Covers wi,Office Supplies,Binders,$3.81 ,$0.61 
+PD-248,TOPS Voice Message Log Bo,Office Supplies,Paper,$3.81 ,$0.65 
+PD-249,Avery Hi-Liter Pen Style ,Office Supplies,Art,$3.85 ,$0.23 
+PD-251,Tuff Stuff Recycled Round,Office Supplies,Binders,$3.86 ,$1.85 
+PD-252,GBC Durable Plastic Cover,Office Supplies,Binders,$3.87 ,$1.55 
+PD-253,Acme Kleen Earth Office S,Office Supplies,Supplies,$3.88 ,$1.78 
+PD-254,"Mead 1st Gear 2"" Zipper B",Office Supplies,Binders,$3.89 ,$1.98 
+PD-255,Commercial WindTunnel Cle,Office Supplies,Appliances,$3.89 ,$1.95 
+PD-256,Faber Castell Col-Erase P,Office Supplies,Art,$3.91 ,$0.63 
+PD-257,Avery 508,Office Supplies,Labels,$3.93 ,$0.27 
+PD-258,Advantus Map Pennant Flag,Office Supplies,Fasteners,$3.95 ,$1.11 
+PD-26,Universal Recycled Hangin,Office Supplies,Binders,$1.23 ,$0.63 
+PD-260,Cardinal Holdit Business ,Office Supplies,Binders,$3.98 ,$0.60 
+PD-261,4009 Highlighters by Sanf,Office Supplies,Art,$3.98 ,$1.07 
+PD-262,Xerox 1989,Office Supplies,Paper,$3.98 ,$0.24 
+PD-263,Xerox 1949,Office Supplies,Paper,$3.98 ,$1.99 
+PD-264,Avery 513,Office Supplies,Labels,$3.98 ,$0.40 
+PD-265,Holmes Cool Mist Humidifi,Office Supplies,Appliances,$3.98 ,$1.87 
+PD-266,Xerox 1897,Office Supplies,Paper,$3.98 ,$0.80 
+PD-268,Unpadded Memo Slips,Office Supplies,Paper,$3.98 ,$0.72 
+PD-269,"Square Ring Data Binders,",Office Supplies,Binders,$4.13 ,$0.87 
+PD-27,Avery Heavy-Duty EZD View,Office Supplies,Binders,$1.28 ,$0.51 
+PD-270,Avery 506,Office Supplies,Labels,$4.13 ,$0.21 
+PD-271,Newell 325,Office Supplies,Art,$4.13 ,$1.49 
+PD-272,Avery 491,Office Supplies,Labels,$4.13 ,$0.21 
+PD-273,Newell Chalk Holder,Office Supplies,Art,$4.13 ,$0.41 
+PD-274,Avery 05222 Permanent Sel,Office Supplies,Labels,$4.13 ,$1.86 
+PD-276,"SlimView Poly Binder, 3/8",Office Supplies,Binders,$4.14 ,$2.03 
+PD-277,"Important Message Pads, 5",Office Supplies,Paper,$4.20 ,$0.63 
+PD-278,GBC Premium Transparent C,Office Supplies,Binders,$4.20 ,$0.67 
+PD-279,Xerox 1928,Office Supplies,Paper,$4.22 ,$0.21 
+PD-28,BIC Brite Liner Grip High,Office Supplies,Art,$1.31 ,$0.47 
+PD-280,Astroparche Fine Business,Office Supplies,Paper,$4.22 ,$1.99 
+PD-281,Xerox 1963,Office Supplies,Paper,$4.22 ,$0.84 
+PD-282,Xerox 1954,Office Supplies,Paper,$4.22 ,$2.32 
+PD-283,Storex DuraTech Recycled ,Office Supplies,Binders,$4.24 ,$1.06 
+PD-284,BIC Brite Liner Grip High,Office Supplies,Art,$4.24 ,$0.85 
+PD-285,Dixon Prang Watercolor Pe,Office Supplies,Art,$4.26 ,$0.26 
+PD-286,"Pressboard Data Binder, C",Office Supplies,Binders,$4.27 ,$0.43 
+PD-287,Pressboard Data Binders b,Office Supplies,Binders,$4.27 ,$0.68 
+PD-289,Acco D-Ring Binder w/Dubl,Office Supplies,Binders,$4.28 ,$1.80 
+PD-29,Prang Dustless Chalk Stic,Office Supplies,Art,$1.34 ,$0.20 
+PD-290,Xerox 1962,Office Supplies,Paper,$4.28 ,$2.01 
+PD-291,Xerox 1971,Office Supplies,Paper,$4.28 ,$1.84 
+PD-292,Xerox 199,Office Supplies,Paper,$4.28 ,$2.10 
+PD-293,Sanford Colorific Scented,Office Supplies,Art,$4.28 ,$1.54 
+PD-294,Trimflex Flexible Post Bi,Office Supplies,Binders,$4.28 ,$0.73 
+PD-295,Easy-staple paper,Office Supplies,Paper,$4.28 ,$0.26 
+PD-296,Xerox 1953,Office Supplies,Paper,$4.28 ,$2.35 
+PD-297,Newell 341,Office Supplies,Art,$4.28 ,$2.01 
+PD-298,Xerox 1927,Office Supplies,Paper,$4.28 ,$1.58 
+PD-299,Newell 347,Office Supplies,Art,$4.28 ,$0.73 
+PD-3,Avery Triangle Shaped She,Office Supplies,Binders,$0.74 ,$0.36 
+PD-30,Computer Printout Index T,Office Supplies,Binders,$1.34 ,$0.24 
+PD-300,"TOPS ""Important Message"" ",Office Supplies,Paper,$4.28 ,$0.68 
+PD-301,Acco PRESSTEX Data Binder,Office Supplies,Binders,$4.30 ,$0.82 
+PD-302,Acco PRESSTEX Data Binder,Office Supplies,Binders,$4.30 ,$2.24 
+PD-303,3M Organizer Strips,Office Supplies,Binders,$4.32 ,$0.65 
+PD-305,Ampad Gold Fibre Wireboun,Office Supplies,Paper,$4.41 ,$1.59 
+PD-306,Avery Durable Poly Binder,Office Supplies,Binders,$4.42 ,$0.31 
+PD-307,DIXON Ticonderoga Erasabl,Office Supplies,Art,$4.46 ,$0.85 
+PD-308,Newell 314,Office Supplies,Art,$4.46 ,$2.14 
+PD-309,Plastic Stacking Crates &,Office Supplies,Storage,$4.46 ,$1.47 
+PD-31,Avery Self-Adhesive Photo,Office Supplies,Binders,$1.36 ,$0.59 
+PD-310,Avery Heavy-Duty EZD  Bin,Office Supplies,Binders,$4.46 ,$0.85 
+PD-312,Hoover Portapower Portabl,Office Supplies,Appliances,$4.48 ,$0.76 
+PD-313,Spiral Phone Message Book,Office Supplies,Paper,$4.48 ,$2.20 
+PD-314,Ampad #10 Peel & Seel Hol,Office Supplies,Envelopes,$4.48 ,$2.37 
+PD-315,Avery Non-Stick Binders,Office Supplies,Binders,$4.49 ,$1.44 
+PD-316,"GBC Prepunched Paper, 19-",Office Supplies,Binders,$4.50 ,$1.22 
+PD-317,Advantus T-Pin Paper Clip,Office Supplies,Fasteners,$4.51 ,$0.77 
+PD-318,Xerox 1924,Office Supplies,Paper,$4.62 ,$1.43 
+PD-319,Avery Binding System Hidd,Office Supplies,Binders,$4.62 ,$0.65 
+PD-32,Newell 3-Hole Punched Pla,Office Supplies,Binders,$1.37 ,$0.19 
+PD-320,Wilson Jones Clip & Carry,Office Supplies,Binders,$4.64 ,$2.46 
+PD-321,Newell 312,Office Supplies,Art,$4.67 ,$2.24 
+PD-322,Acco Translucent Poly Rin,Office Supplies,Binders,$4.68 ,$1.68 
+PD-323,Things To Do Today Pad,Office Supplies,Paper,$4.70 ,$0.89 
+PD-324,Adams Telephone Message B,Office Supplies,Paper,$4.70 ,$0.28 
+PD-326,Storex Dura Pro Binders,Office Supplies,Binders,$4.75 ,$1.95 
+PD-327,"Wirebound Message Books, ",Office Supplies,Paper,$4.77 ,$0.38 
+PD-328,Universal Premium White C,Office Supplies,Paper,$4.78 ,$0.67 
+PD-329,Xerox 1903,Office Supplies,Paper,$4.78 ,$0.72 
+PD-33,Presstex Flexible Ring Bi,Office Supplies,Binders,$1.37 ,$0.11 
+PD-330,Avery Hanging File Binder,Office Supplies,Binders,$4.78 ,$1.96 
+PD-331,Xerox 1947,Office Supplies,Paper,$4.78 ,$0.48 
+PD-332,Dixon Ticonderoga Erasabl,Office Supplies,Art,$4.78 ,$2.63 
+PD-333,Xerox 1974,Office Supplies,Paper,$4.78 ,$1.24 
+PD-334,DXL Angle-View Binders wi,Office Supplies,Binders,$4.79 ,$0.77 
+PD-335,Adams Telephone Message B,Office Supplies,Paper,$4.83 ,$0.82 
+PD-337,Staples in misc. colors,Office Supplies,Art,$4.84 ,$1.89 
+PD-338,Zebra Zazzle Fluorescent ,Office Supplies,Art,$4.86 ,$1.95 
+PD-339,Col-Erase Pencils with Er,Office Supplies,Art,$4.86 ,$0.97 
+PD-34,Design Ebony Sketching Pe,Office Supplies,Art,$1.39 ,$0.60 
+PD-340,UniKeep View Case Binders,Office Supplies,Binders,$4.89 ,$0.78 
+PD-341,Newell 316,Office Supplies,Art,$4.89 ,$0.88 
+PD-342,Newell 331,Office Supplies,Art,$4.89 ,$1.71 
+PD-343,Color-Coded Legal Exhibit,Office Supplies,Labels,$4.91 ,$2.11 
+PD-344,Avery 478,Office Supplies,Labels,$4.91 ,$0.44 
+PD-349,GBC Standard Therm-A-Bind,Office Supplies,Binders,$4.98 ,$0.95 
+PD-35,Nontoxic Chalk,Office Supplies,Art,$1.41 ,$0.70 
+PD-350,Xerox 1970,Office Supplies,Paper,$4.98 ,$2.09 
+PD-351,Easy-staple paper,Office Supplies,Paper,$4.98 ,$0.80 
+PD-352,Avery 499,Office Supplies,Labels,$4.98 ,$2.69 
+PD-353,Xerox 198,Office Supplies,Paper,$4.98 ,$1.05 
+PD-354,Avery White Multi-Purpose,Office Supplies,Labels,$4.98 ,$2.24 
+PD-355,Xerox 22,Office Supplies,Paper,$4.98 ,$2.64 
+PD-356,Hammermill CopyPlus Copy ,Office Supplies,Paper,$4.98 ,$1.00 
+PD-357,Avery 483,Office Supplies,Labels,$4.98 ,$2.44 
+PD-358,Advantus Plastic Paper Cl,Office Supplies,Fasteners,$5.00 ,$1.75 
+PD-360,GBC Standard Plastic Bind,Office Supplies,Binders,$5.02 ,$1.81 
+PD-362,Permanent Self-Adhesive F,Office Supplies,Labels,$5.04 ,$2.02 
+PD-363,Cardinal HOLDit! Binder I,Office Supplies,Binders,$5.06 ,$2.28 
+PD-364,Wilson Jones Standard D-R,Office Supplies,Binders,$5.06 ,$0.71 
+PD-365,Telephone Message Books w,Office Supplies,Paper,$5.08 ,$2.49 
+PD-367,Colorific Watercolor Penc,Office Supplies,Art,$5.16 ,$0.41 
+PD-368,Xerox 1995,Office Supplies,Paper,$5.18 ,$2.75 
+PD-369,Xerox 1931,Office Supplies,Paper,$5.18 ,$0.98 
+PD-37,Newell 310,Office Supplies,Art,$1.41 ,$0.49 
+PD-370,Xerox 216,Office Supplies,Paper,$5.18 ,$2.49 
+PD-371,Xerox 210,Office Supplies,Paper,$5.18 ,$2.02 
+PD-372,Xerox 1998,Office Supplies,Paper,$5.18 ,$0.41 
+PD-373,Xerox 1946,Office Supplies,Paper,$5.18 ,$0.41 
+PD-374,Xerox 2000,Office Supplies,Paper,$5.18 ,$1.09 
+PD-375,Weyerhaeuser First Choice,Office Supplies,Paper,$5.18 ,$1.71 
+PD-376,Xerox 1905,Office Supplies,Paper,$5.18 ,$2.28 
+PD-377,Xerox 200,Office Supplies,Paper,$5.18 ,$2.07 
+PD-378,Xerox 21,Office Supplies,Paper,$5.18 ,$1.81 
+PD-379,Xerox 225,Office Supplies,Paper,$5.18 ,$2.28 
+PD-38,Newell 326,Office Supplies,Art,$1.41 ,$0.56 
+PD-380,Xerox 206,Office Supplies,Paper,$5.18 ,$1.35 
+PD-381,Xerox 229,Office Supplies,Paper,$5.18 ,$0.88 
+PD-382,Xerox 213,Office Supplies,Paper,$5.18 ,$0.78 
+PD-383,Xerox 2,Office Supplies,Paper,$5.18 ,$2.64 
+PD-384,Xerox 227,Office Supplies,Paper,$5.18 ,$2.13 
+PD-385,Xerox 1997,Office Supplies,Paper,$5.18 ,$1.81 
+PD-386,Xerox 1976,Office Supplies,Paper,$5.18 ,$0.78 
+PD-387,Xerox 203,Office Supplies,Paper,$5.18 ,$2.13 
+PD-388,Xerox 1967,Office Supplies,Paper,$5.18 ,$1.04 
+PD-389,Xerox 221,Office Supplies,Paper,$5.18 ,$1.56 
+PD-39,Assorted Color Push Pins,Office Supplies,Fasteners,$1.45 ,$0.36 
+PD-391,Southworth Parchment Pape,Office Supplies,Paper,$5.23 ,$2.77 
+PD-392,Southworth 25% Cotton Gra,Office Supplies,Paper,$5.23 ,$1.78 
+PD-393,Xerox 4200 Series MultiUs,Office Supplies,Paper,$5.28 ,$2.16 
+PD-394,Sterilite Show Offs Stora,Office Supplies,Storage,$5.28 ,$2.11 
+PD-395,Xerox 1990,Office Supplies,Paper,$5.28 ,$0.48 
+PD-397,Xerox 1981,Office Supplies,Paper,$5.28 ,$2.90 
+PD-398,Xerox 1972,Office Supplies,Paper,$5.28 ,$1.95 
+PD-399,Sanford Liquid Accent Hig,Office Supplies,Art,$5.34 ,$2.40 
+PD-4,Hoover Replacement Belts ,Office Supplies,Appliances,$0.79 ,$0.14 
+PD-40,Acco Pressboard Covers wi,Office Supplies,Binders,$1.47 ,$0.74 
+PD-400,Xerox 1923,Office Supplies,Paper,$5.34 ,$1.02 
+PD-401,Xerox 1968,Office Supplies,Paper,$5.34 ,$1.44 
+PD-402,Wilson Jones 14 Line Acry,Office Supplies,Binders,$5.34 ,$2.24 
+PD-403,Xerox 195,Office Supplies,Paper,$5.34 ,$2.08 
+PD-404,"Wirebound Message Book, 4",Office Supplies,Paper,$5.43 ,$1.68 
+PD-409,Eldon Shelf Savers Cubes ,Office Supplies,Storage,$5.58 ,$0.39 
+PD-41,Pressboard Hanging Data B,Office Supplies,Binders,$1.48 ,$0.25 
+PD-410,Staple envelope,Office Supplies,Envelopes,$5.58 ,$0.33 
+PD-412,"Wirebound Message Books, ",Office Supplies,Paper,$5.63 ,$2.25 
+PD-413,Acme Preferred Stainless ,Office Supplies,Supplies,$5.68 ,$0.57 
+PD-414,Staple envelope,Office Supplies,Envelopes,$5.68 ,$1.76 
+PD-415,Wilson Jones Hanging View,Office Supplies,Binders,$5.68 ,$2.90 
+PD-416,Adams Write n' Stick Phon,Office Supplies,Paper,$5.68 ,$2.27 
+PD-417,Avery Metallic Poly Binde,Office Supplies,Binders,$5.73 ,$0.86 
+PD-418,Binder Posts,Office Supplies,Binders,$5.74 ,$2.18 
+PD-42,GBC Plastic Binding Combs,Office Supplies,Binders,$1.48 ,$0.30 
+PD-420,Xerox 1987,Office Supplies,Paper,$5.78 ,$2.49 
+PD-421,HP Office Recycled Paper ,Office Supplies,Paper,$5.78 ,$3.12 
+PD-422,Xerox 1978,Office Supplies,Paper,$5.78 ,$2.31 
+PD-423,Xerox 196,Office Supplies,Paper,$5.78 ,$3.12 
+PD-424,Xerox 1899,Office Supplies,Paper,$5.78 ,$0.87 
+PD-425,"Advantus Push Pins, Alumi",Office Supplies,Fasteners,$5.81 ,$1.80 
+PD-426,Cardinal Holdit Data Disk,Office Supplies,Binders,$5.82 ,$1.22 
+PD-427,Black Print Carbonless 8 ,Office Supplies,Paper,$5.82 ,$2.62 
+PD-428,"Array Parchment Paper, As",Office Supplies,Paper,$5.82 ,$2.85 
+PD-43,Acco Four Pocket Poly Rin,Office Supplies,Binders,$1.49 ,$0.13 
+PD-430,Quartet Omega Colored Cha,Office Supplies,Art,$5.84 ,$2.92 
+PD-431,Avery Hi-Liter Smear-Safe,Office Supplies,Art,$5.84 ,$1.23 
+PD-433,Storex Dura Pro Binders,Office Supplies,Binders,$5.94 ,$1.25 
+PD-436,Xerox 1920,Office Supplies,Paper,$5.98 ,$1.20 
+PD-437,Perma STOR-ALL Hanging Fi,Office Supplies,Storage,$5.98 ,$3.11 
+PD-438,Xerox 1965,Office Supplies,Paper,$5.98 ,$0.84 
+PD-439,Wausau Papers Astrobright,Office Supplies,Envelopes,$5.98 ,$1.02 
+PD-44,"Super Bands, 12/Pack",Office Supplies,Fasteners,$1.49 ,$0.73 
+PD-440,Newell 330,Office Supplies,Art,$5.98 ,$0.48 
+PD-441,Xerox 1956,Office Supplies,Paper,$5.98 ,$2.15 
+PD-442,Xerox 1992,Office Supplies,Paper,$5.98 ,$1.26 
+PD-443,Newell 315,Office Supplies,Art,$5.98 ,$1.20 
+PD-444,Xerox 193,Office Supplies,Paper,$5.98 ,$1.20 
+PD-445,Xerox 1895,Office Supplies,Paper,$5.98 ,$3.23 
+PD-446,Great White Multi-Use Rec,Office Supplies,Paper,$5.98 ,$3.23 
+PD-448,Staples,Office Supplies,Fasteners,$6.08 ,$3.34 
+PD-449,"Wirebound Message Books, ",Office Supplies,Paper,$6.09 ,$0.85 
+PD-45,Revere Boxed Rubber Bands,Office Supplies,Fasteners,$1.51 ,$0.24 
+PD-451,DXL Angle-View Binders wi,Office Supplies,Binders,$6.17 ,$3.33 
+PD-452,Southworth 100% Résumé Pa,Office Supplies,Paper,$6.22 ,$3.17 
+PD-453,Alliance Super-Size Bands,Office Supplies,Fasteners,$6.22 ,$2.30 
+PD-454,Hoover Commercial Soft Gu,Office Supplies,Appliances,$6.22 ,$2.86 
+PD-455,"Ampad Phone Message Book,",Office Supplies,Paper,$6.24 ,$2.62 
+PD-458,Avery 48,Office Supplies,Labels,$6.30 ,$2.27 
+PD-459,Avery 495,Office Supplies,Labels,$6.30 ,$0.88 
+PD-46,XtraLife ClearVue Slant-D,Office Supplies,Binders,$1.57 ,$0.39 
+PD-460,Staples,Office Supplies,Fasteners,$6.31 ,$3.35 
+PD-461,Akro Stacking Bins,Office Supplies,Storage,$6.31 ,$1.07 
+PD-462,Things To Do Today Spiral,Office Supplies,Paper,$6.34 ,$2.91 
+PD-463,Staple remover,Office Supplies,Supplies,$6.38 ,$2.23 
+PD-464,"Fellowes Twister Kit, Gra",Office Supplies,Binders,$6.43 ,$2.25 
+PD-465,Wirebound Four 2-3/4 x 5 ,Office Supplies,Paper,$6.45 ,$2.45 
+PD-467,GBC Instant Report Kit,Office Supplies,Binders,$6.47 ,$2.26 
+PD-468,Xerox 1957,Office Supplies,Paper,$6.48 ,$0.91 
+PD-469,Xerox 205,Office Supplies,Paper,$6.48 ,$3.05 
+PD-47,Avery Reinforcements for ,Office Supplies,Binders,$1.58 ,$0.63 
+PD-470,BIC Brite Liner Highlight,Office Supplies,Art,$6.48 ,$2.66 
+PD-471,Xerox 222,Office Supplies,Paper,$6.48 ,$1.81 
+PD-472,"RSVP Cards & Envelopes, B",Office Supplies,Paper,$6.48 ,$3.37 
+PD-473,Xerox 212,Office Supplies,Paper,$6.48 ,$2.40 
+PD-474,Xerox 224,Office Supplies,Paper,$6.48 ,$3.50 
+PD-475,Xerox 1996,Office Supplies,Paper,$6.48 ,$1.30 
+PD-476,Xerox 192,Office Supplies,Paper,$6.48 ,$1.04 
+PD-477,Xerox 219,Office Supplies,Paper,$6.48 ,$2.40 
+PD-478,Xerox 23,Office Supplies,Paper,$6.48 ,$1.23 
+PD-479,Xerox 214,Office Supplies,Paper,$6.48 ,$0.45 
+PD-48,"Brites Rubber Bands, 1 1/",Office Supplies,Fasteners,$1.58 ,$0.13 
+PD-480,Xerox 220,Office Supplies,Paper,$6.48 ,$2.14 
+PD-481,Xerox 226,Office Supplies,Paper,$6.48 ,$0.65 
+PD-482,Xerox 1894,Office Supplies,Paper,$6.48 ,$2.40 
+PD-483,Eureka Recycled Copy Pape,Office Supplies,Paper,$6.48 ,$1.94 
+PD-484,Xerox 1975,Office Supplies,Paper,$6.48 ,$1.17 
+PD-485,Xerox 208,Office Supplies,Paper,$6.48 ,$3.37 
+PD-486,Xerox 209,Office Supplies,Paper,$6.48 ,$0.32 
+PD-487,Xerox 202,Office Supplies,Paper,$6.48 ,$1.36 
+PD-488,Xerox 1930,Office Supplies,Paper,$6.48 ,$3.30 
+PD-489,Xerox 230,Office Supplies,Paper,$6.48 ,$0.45 
+PD-49,"Wilson Jones 1"" Hanging D",Office Supplies,Binders,$1.58 ,$0.63 
+PD-490,Xerox 20,Office Supplies,Paper,$6.48 ,$0.39 
+PD-491,Xerox 1994,Office Supplies,Paper,$6.48 ,$3.50 
+PD-492,Xerox 211,Office Supplies,Paper,$6.48 ,$0.91 
+PD-493,Xerox 201,Office Supplies,Paper,$6.48 ,$2.66 
+PD-494,Xerox 1993,Office Supplies,Paper,$6.48 ,$0.97 
+PD-495,Xerox 217,Office Supplies,Paper,$6.48 ,$2.01 
+PD-496,Xerox 207,Office Supplies,Paper,$6.48 ,$0.39 
+PD-497,Xerox 218,Office Supplies,Paper,$6.48 ,$0.39 
+PD-498,Xerox 204,Office Supplies,Paper,$6.48 ,$1.36 
+PD-499,Xerox 232,Office Supplies,Paper,$6.48 ,$1.17 
+PD-5,Eureka Disposable Bags fo,Office Supplies,Appliances,$0.81 ,$0.31 
+PD-500,Xerox 228,Office Supplies,Paper,$6.48 ,$2.33 
+PD-501,Avery Hi-Liter EverBold P,Office Supplies,Art,$6.51 ,$2.15 
+PD-502,"Message Book, Phone, Wire",Office Supplies,Paper,$6.55 ,$1.05 
+PD-503,Wilson Jones data.warehou,Office Supplies,Binders,$6.58 ,$0.40 
+PD-506,Southworth 25% Cotton Ant,Office Supplies,Paper,$6.67 ,$1.00 
+PD-507,Xerox 1898,Office Supplies,Paper,$6.68 ,$1.27 
+PD-508,Xerox 1959,Office Supplies,Paper,$6.68 ,$2.07 
+PD-509,Xerox 1977,Office Supplies,Paper,$6.68 ,$1.40 
+PD-510,"Wirebound Message Books, ",Office Supplies,Paper,$6.69 ,$2.88 
+PD-511,"Wirebound Message Books, ",Office Supplies,Paper,$6.69 ,$3.21 
+PD-512,Avery Flip-Chart Easel Bi,Office Supplies,Binders,$6.71 ,$1.41 
+PD-513,Ibico Plastic and Wire Sp,Office Supplies,Binders,$6.74 ,$2.23 
+PD-514,Strathmore Photo Mount Ca,Office Supplies,Paper,$6.78 ,$3.12 
+PD-516,"Acme Design Line 8"" Stain",Office Supplies,Supplies,$6.84 ,$0.55 
+PD-517,Acme Design Stainless Ste,Office Supplies,Supplies,$6.84 ,$1.44 
+PD-518,Acme Office Executive Ser,Office Supplies,Supplies,$6.86 ,$3.43 
+PD-519,"Adams Phone Message Book,",Office Supplies,Paper,$6.88 ,$0.48 
+PD-52,Avery Durable Slant Ring ,Office Supplies,Binders,$1.58 ,$0.79 
+PD-521,Acco Six-Outlet Power Str,Office Supplies,Appliances,$6.90 ,$1.03 
+PD-522,Wilson Jones Heavy-Duty C,Office Supplies,Binders,$6.93 ,$2.84 
+PD-523,BIC Liqua Brite Liner,Office Supplies,Art,$6.94 ,$2.64 
+PD-524,Wilson Jones Leather-Like,Office Supplies,Binders,$6.98 ,$1.26 
+PD-527,"#10- 4 1/8"" x 9 1/2"" Recy",Office Supplies,Envelopes,$6.99 ,$0.42 
+PD-528,"#10- 4 1/8"" x 9 1/2"" Recy",Office Supplies,Envelopes,$6.99 ,$0.98 
+PD-53,Cardinal Hold-It CD Pocke,Office Supplies,Binders,$1.60 ,$0.30 
+PD-530,SANFORD Major Accent High,Office Supplies,Art,$7.08 ,$0.71 
+PD-532,Acme Stainless Steel Offi,Office Supplies,Supplies,$7.27 ,$3.78 
+PD-533,Wilson Jones Active Use B,Office Supplies,Binders,$7.28 ,$1.09 
+PD-534,Southworth Structures Col,Office Supplies,Paper,$7.28 ,$0.58 
+PD-536,Pastel Pink Envelopes,Office Supplies,Envelopes,$7.28 ,$2.33 
+PD-537,Dixon Ticonderoga Core-Lo,Office Supplies,Art,$7.29 ,$1.02 
+PD-538,Avery 516,Office Supplies,Labels,$7.31 ,$1.39 
+PD-539,Avery 486,Office Supplies,Labels,$7.31 ,$2.49 
+PD-54,Sanford Pocket Accent Hig,Office Supplies,Art,$1.60 ,$0.74 
+PD-540,Cardinal EasyOpen D-Ring ,Office Supplies,Binders,$7.31 ,$0.44 
+PD-541,Self-Adhesive Address Lab,Office Supplies,Labels,$7.31 ,$3.14 
+PD-542,Avery 519,Office Supplies,Labels,$7.31 ,$0.66 
+PD-544,It's Hot Message Books wi,Office Supplies,Paper,$7.40 ,$1.92 
+PD-545,"Eberhard Faber 3 1/2"" Gol",Office Supplies,Art,$7.44 ,$1.56 
+PD-547,Large Capacity Hanging Po,Office Supplies,Binders,$7.49 ,$0.37 
+PD-548,Staple magnet,Office Supplies,Storage,$7.50 ,$2.40 
+PD-55,Acco PRESSTEX Data Binder,Office Supplies,Binders,$1.61 ,$0.81 
+PD-550,Staples in misc. colors,Office Supplies,Art,$7.58 ,$2.73 
+PD-551,TOPS 4 x 6 Fluorescent Co,Office Supplies,Paper,$7.59 ,$3.57 
+PD-552,"#10- 4 1/8"" x 9 1/2"" Secu",Office Supplies,Envelopes,$7.64 ,$3.13 
+PD-553,Security-Tint Envelopes,Office Supplies,Envelopes,$7.64 ,$0.69 
+PD-554,"Rediform Wirebound ""Phone",Office Supplies,Paper,$7.64 ,$2.52 
+PD-555,Stiletto Hand Letter Open,Office Supplies,Supplies,$7.68 ,$0.61 
+PD-556,GBC VeloBinder Strips,Office Supplies,Binders,$7.68 ,$0.54 
+PD-557,Staple envelope,Office Supplies,Envelopes,$7.78 ,$3.42 
+PD-558,Staple envelope,Office Supplies,Envelopes,$7.82 ,$1.25 
+PD-56,Poly String Tie Envelopes,Office Supplies,Envelopes,$1.63 ,$0.69 
+PD-561,Adams Telephone Message B,Office Supplies,Paper,$7.98 ,$1.12 
+PD-562,Iris Project Case,Office Supplies,Storage,$7.98 ,$3.43 
+PD-565,Xerox 1921,Office Supplies,Paper,$7.99 ,$2.64 
+PD-567,"TOPS Money Receipt Book, ",Office Supplies,Paper,$8.01 ,$3.12 
+PD-568,Riverleaf Stik-Withit Des,Office Supplies,Paper,$8.05 ,$1.61 
+PD-569,Easy-staple paper,Office Supplies,Paper,$8.11 ,$0.73 
+PD-57,Angle-D Ring Binders,Office Supplies,Binders,$1.64 ,$0.80 
+PD-570,Acme Softgrip Scissors,Office Supplies,Supplies,$8.14 ,$1.38 
+PD-571,Avery Trapezoid Ring Bind,Office Supplies,Binders,$8.20 ,$0.41 
+PD-572,"Message Book, Wirebound, ",Office Supplies,Paper,$8.22 ,$1.23 
+PD-574,GBC Wire Binding Combs,Office Supplies,Binders,$8.27 ,$1.41 
+PD-575,Staple envelope,Office Supplies,Envelopes,$8.28 ,$2.82 
+PD-577,REDIFORM Incoming/Outgoin,Office Supplies,Paper,$8.34 ,$3.25 
+PD-578,Black & Decker Filter for,Office Supplies,Appliances,$8.39 ,$0.67 
+PD-58,Economy Binders,Office Supplies,Binders,$1.66 ,$0.27 
+PD-580,"Elite 5"" Scissors",Office Supplies,Supplies,$8.45 ,$4.14 
+PD-581,Acme Titanium Bonded Scis,Office Supplies,Supplies,$8.50 ,$1.79 
+PD-582,"Message Book, Standard Li",Office Supplies,Paper,$8.56 ,$0.51 
+PD-583,Wilson Jones Elliptical R,Office Supplies,Binders,$8.56 ,$1.63 
+PD-585,GBC Standard Recycled Rep,Office Supplies,Binders,$8.62 ,$2.67 
+PD-586,Staple holder,Office Supplies,Appliances,$8.67 ,$0.43 
+PD-587,Satellite Sectional Post ,Office Supplies,Binders,$8.68 ,$1.22 
+PD-589,Crate-A-Files,Office Supplies,Storage,$8.72 ,$1.40 
+PD-591,White Business Envelopes ,Office Supplies,Envelopes,$8.75 ,$1.40 
+PD-592,Boston 16750 Black Compac,Office Supplies,Art,$8.75 ,$2.36 
+PD-596,Fiskars Home & Office Sci,Office Supplies,Supplies,$8.88 ,$4.26 
+PD-597,Recycled Desk Saver Line ,Office Supplies,Paper,$8.95 ,$4.65 
+PD-598,"Geographics Note Cards, B",Office Supplies,Paper,$8.95 ,$3.49 
+PD-599,"Personal Folder Holder, E",Office Supplies,Storage,$8.97 ,$1.35 
+PD-6,Acco Suede Grain Vinyl Ro,Office Supplies,Binders,$0.83 ,$0.13 
+PD-60,Alliance Rubber Bands,Office Supplies,Fasteners,$1.68 ,$0.77 
+PD-602,X-Rack File for Hanging F,Office Supplies,Storage,$9.03 ,$4.06 
+PD-603,Xerox 188,Office Supplies,Paper,$9.07 ,$4.26 
+PD-604,Black Print Carbonless Sn,Office Supplies,Paper,$9.11 ,$1.46 
+PD-605,Ibico Plastic Spiral Bind,Office Supplies,Binders,$9.12 ,$1.73 
+PD-607,Vinyl Coated Wire Paper C,Office Supplies,Fasteners,$9.18 ,$4.13 
+PD-608,Avery Personal Creations ,Office Supplies,Paper,$9.23 ,$3.97 
+PD-609,Newell 324,Office Supplies,Art,$9.24 ,$3.51 
+PD-61,Newell 323,Office Supplies,Art,$1.68 ,$0.32 
+PD-610,Newell 309,Office Supplies,Art,$9.24 ,$1.94 
+PD-612,Peel & Seel Recycled Cata,Office Supplies,Envelopes,$9.26 ,$4.91 
+PD-613,"Wirebound Message Books, ",Office Supplies,Paper,$9.27 ,$3.80 
+PD-614,GBC Linen Binding Covers,Office Supplies,Binders,$9.29 ,$3.07 
+PD-615,Acme Forged Steel Scissor,Office Supplies,Supplies,$9.31 ,$0.56 
+PD-616,Hunt BOSTON Vista Battery,Office Supplies,Art,$9.33 ,$1.68 
+PD-617,Boston 16765 Mini Stand U,Office Supplies,Art,$9.33 ,$1.68 
+PD-618,Staple envelope,Office Supplies,Envelopes,$9.34 ,$1.50 
+PD-619,Rediform S.O.S. 1-Up Phon,Office Supplies,Paper,$9.38 ,$1.50 
+PD-62,Avery Printable Repositio,Office Supplies,Binders,$1.72 ,$0.24 
+PD-622,GBC Wire Binding Strips,Office Supplies,Binders,$9.52 ,$5.14 
+PD-624,GBC Personal VeloBind Str,Office Supplies,Binders,$9.58 ,$3.83 
+PD-625,Staples in misc. colors,Office Supplies,Art,$9.58 ,$2.78 
+PD-626,Bulldog Vacuum Base Penci,Office Supplies,Art,$9.59 ,$3.45 
+PD-628,Wirebound Service Call Bo,Office Supplies,Paper,$9.68 ,$4.84 
+PD-629,Belkin Premiere Surge Mas,Office Supplies,Appliances,$9.72 ,$1.36 
+PD-63,Peel & Stick Add-On Corne,Office Supplies,Binders,$1.73 ,$0.43 
+PD-633,Staple envelope,Office Supplies,Envelopes,$9.78 ,$2.05 
+PD-634,Lumber Crayons,Office Supplies,Art,$9.85 ,$4.24 
+PD-635,Acme Tagit Stainless Stee,Office Supplies,Supplies,$9.90 ,$2.97 
+PD-636,Akro-Mils 12-Gallon Tote,Office Supplies,Storage,$9.93 ,$4.07 
+PD-637,Peel-Off China Markers,Office Supplies,Art,$9.93 ,$4.67 
+PD-64,Ampad Evidence Wirebond S,Office Supplies,Paper,$1.74 ,$0.14 
+PD-640,Xerox 1896,Office Supplies,Paper,$9.99 ,$5.09 
+PD-641,Xerox 1948,Office Supplies,Paper,$9.99 ,$4.00 
+PD-642,Hammermill Color Copier P,Office Supplies,Paper,$9.99 ,$3.80 
+PD-643,Round Specialty Laser Pri,Office Supplies,Labels,$10.02 ,$3.91 
+PD-644,50 Colored Long Pencils,Office Supplies,Art,$10.16 ,$4.06 
+PD-645,Globe Weis Peel & Seel Fi,Office Supplies,Envelopes,$10.22 ,$5.62 
+PD-646,Acme Box Cutter Scissors,Office Supplies,Supplies,$10.23 ,$1.74 
+PD-647,GBC Prestige Therm-A-Bind,Office Supplies,Binders,$10.29 ,$4.12 
+PD-648,Martin-Yale Premier Lette,Office Supplies,Supplies,$10.30 ,$0.72 
+PD-649,Speediset Carbonless Redi,Office Supplies,Paper,$10.31 ,$3.81 
+PD-65,Staple remover,Office Supplies,Supplies,$1.74 ,$0.66 
+PD-650,Avery Address/Shipping La,Office Supplies,Labels,$10.35 ,$2.17 
+PD-651,Avery 473,Office Supplies,Labels,$10.35 ,$5.28 
+PD-652,Avery 503,Office Supplies,Labels,$10.35 ,$3.83 
+PD-653,Avery 489,Office Supplies,Labels,$10.35 ,$5.59 
+PD-654,GBC Recycled Grain Textur,Office Supplies,Binders,$10.36 ,$5.60 
+PD-658,Acco Data Flex Cable Post,Office Supplies,Binders,$10.43 ,$5.53 
+PD-659,"Avery 3 1/2"" Diskette Sto",Office Supplies,Binders,$10.44 ,$4.91 
+PD-66,Stockwell Push Pins,Office Supplies,Fasteners,$1.74 ,$0.85 
+PD-660,Sterilite Officeware Hing,Office Supplies,Storage,$10.48 ,$0.94 
+PD-661,Staples in misc. colors,Office Supplies,Art,$10.48 ,$3.98 
+PD-664,Laser & Ink Jet Business ,Office Supplies,Envelopes,$10.67 ,$4.91 
+PD-665,Staple magnet,Office Supplies,Storage,$10.68 ,$2.24 
+PD-669,GBC VeloBinder Manual Bin,Office Supplies,Binders,$10.80 ,$5.51 
+PD-670,"Rogers Jumbo File, Granit",Office Supplies,Storage,$10.86 ,$2.17 
+PD-671,Belkin 6 Outlet Metallic ,Office Supplies,Appliances,$10.89 ,$1.52 
+PD-673,Manila Recycled Extra-Hea,Office Supplies,Envelopes,$10.98 ,$4.39 
+PD-675,#10 Self-Seal White Envel,Office Supplies,Envelopes,$11.09 ,$3.33 
+PD-676,GBC Velobind Prepunched C,Office Supplies,Binders,$11.09 ,$2.88 
+PD-677,Acme Hot Forged Carbon St,Office Supplies,Supplies,$11.12 ,$4.34 
+PD-678,Eldon Fold 'N Roll Cart S,Office Supplies,Storage,$11.18 ,$4.70 
+PD-679,Project Tote Personal Fil,Office Supplies,Storage,$11.22 ,$3.82 
+PD-68,Pencil and Crayon Sharpen,Office Supplies,Art,$1.75 ,$0.26 
+PD-680,Holmes Replacement Filter,Office Supplies,Appliances,$11.33 ,$1.59 
+PD-681,Easy-staple paper,Office Supplies,Paper,$11.34 ,$4.54 
+PD-682,"SimpliFile Personal File,",Office Supplies,Storage,$11.35 ,$2.16 
+PD-684,Conquest 14 Commercial He,Office Supplies,Appliances,$11.39 ,$5.92 
+PD-685,Personal Creations Ink Je,Office Supplies,Paper,$11.48 ,$5.17 
+PD-687,Ibico Covers for Plastic ,Office Supplies,Binders,$11.50 ,$2.19 
+PD-688,Holmes Odor Grabber,Office Supplies,Appliances,$11.54 ,$4.50 
+PD-689,Deluxe Chalkboard Eraser ,Office Supplies,Art,$11.55 ,$3.23 
+PD-69,GBC Standard Plastic Bind,Office Supplies,Binders,$1.77 ,$0.81 
+PD-690,"Acco Recycled 2"" Capacity",Office Supplies,Binders,$11.56 ,$1.62 
+PD-693,Fellowes Binding Cases,Office Supplies,Binders,$11.70 ,$0.70 
+PD-694,Harmony HEPA Quiet Air Pu,Office Supplies,Appliances,$11.70 ,$4.33 
+PD-696,Avery 505,Office Supplies,Labels,$11.84 ,$2.13 
+PD-697,Alphabetical Labels for T,Office Supplies,Labels,$11.84 ,$5.21 
+PD-698,Wilson Jones Hanging Recy,Office Supplies,Binders,$11.87 ,$0.83 
+PD-7,Wilson Jones Suede Grain ,Office Supplies,Binders,$0.83 ,$0.31 
+PD-70,Quartet Alpha White Chalk,Office Supplies,Art,$1.77 ,$0.11 
+PD-700,Staple holder,Office Supplies,Appliances,$11.97 ,$5.15 
+PD-701,Super Decoflex Portable P,Office Supplies,Storage,$11.98 ,$5.51 
+PD-704,Acco 6 Outlet Guardian St,Office Supplies,Appliances,$12.09 ,$5.68 
+PD-705,Plastic Binding Combs,Office Supplies,Binders,$12.12 ,$2.42 
+PD-706,Tripp Lite Isotel 6 Outle,Office Supplies,Appliances,$12.19 ,$1.71 
+PD-707,Euro Pro Shark Stick Mini,Office Supplies,Appliances,$12.20 ,$5.85 
+PD-708,Aluminum Screw Posts,Office Supplies,Binders,$12.21 ,$3.54 
+PD-709,Portable Personal File Bo,Office Supplies,Storage,$12.21 ,$2.32 
+PD-71,Staples in misc. colors,Office Supplies,Art,$1.78 ,$0.93 
+PD-711,Recycled Premium Regency ,Office Supplies,Binders,$12.22 ,$2.32 
+PD-712,Eldon Jumbo ProFile Porta,Office Supplies,Storage,$12.25 ,$0.98 
+PD-713,Easy-staple paper,Office Supplies,Paper,$12.28 ,$5.53 
+PD-714,Xerox 1881,Office Supplies,Paper,$12.28 ,$5.89 
+PD-715,Recycled Eldon Regenerati,Office Supplies,Storage,$12.28 ,$3.56 
+PD-716,Xerox 1907,Office Supplies,Paper,$12.28 ,$5.03 
+PD-717,Xerox 1933,Office Supplies,Paper,$12.28 ,$6.02 
+PD-719,GBC VeloBind Cover Sets,Office Supplies,Binders,$12.35 ,$2.47 
+PD-72,Hoover Replacement Belt f,Office Supplies,Appliances,$1.78 ,$0.44 
+PD-720,"Tenex File Box, Personal ",Office Supplies,Storage,$12.41 ,$5.71 
+PD-721,Personal Filing Tote with,Office Supplies,Storage,$12.41 ,$1.24 
+PD-722,Eldon Simplefile Box Offi,Office Supplies,Storage,$12.44 ,$5.97 
+PD-723,Avery 50,Office Supplies,Labels,$12.53 ,$0.63 
+PD-724,Avery 485,Office Supplies,Labels,$12.53 ,$2.51 
+PD-725,Avery 515,Office Supplies,Labels,$12.53 ,$2.26 
+PD-726,Avery Trapezoid Extra Hea,Office Supplies,Binders,$12.58 ,$4.66 
+PD-729,GBC Pre-Punched Binding P,Office Supplies,Binders,$12.79 ,$6.14 
+PD-73,Colored Push Pins,Office Supplies,Fasteners,$1.81 ,$0.89 
+PD-731,Fellowes Basic Home/Offic,Office Supplies,Appliances,$12.98 ,$3.63 
+PD-732,Acco Perma 4000 Stacking ,Office Supplies,Storage,$12.99 ,$1.30 
+PD-734,Adjustable Personal File ,Office Supplies,Storage,$13.02 ,$4.69 
+PD-735,Acco Flexible ACCOHIDE Sq,Office Supplies,Binders,$13.02 ,$0.91 
+PD-737,Advantus Motivational Not,Office Supplies,Paper,$13.10 ,$1.31 
+PD-739,Ibico Standard Transparen,Office Supplies,Binders,$13.18 ,$5.14 
+PD-74,"Crayola Anti Dust Chalk, ",Office Supplies,Art,$1.82 ,$0.38 
+PD-740,Stanley Contemporary Batt,Office Supplies,Art,$13.35 ,$6.68 
+PD-741,GBC Poly Designer Binding,Office Supplies,Binders,$13.39 ,$1.34 
+PD-742,Rogers Profile Extra Capa,Office Supplies,Storage,$13.39 ,$2.41 
+PD-744,Fellowes Personal Hanging,Office Supplies,Storage,$13.43 ,$5.64 
+PD-745,Fellowes Desktop Hanging ,Office Supplies,Storage,$13.43 ,$2.01 
+PD-746,Tenex Personal Project Fi,Office Supplies,Storage,$13.48 ,$6.47 
+PD-747,Tenex Personal Self-Stack,Office Supplies,Storage,$13.53 ,$5.14 
+PD-749,Stanley Bostitch Contempo,Office Supplies,Art,$13.58 ,$4.75 
+PD-75,Newell 322,Office Supplies,Art,$1.82 ,$0.98 
+PD-750,Hoover Commercial SteamVa,Office Supplies,Appliances,$13.58 ,$1.90 
+PD-751,Berol Giant Pencil Sharpe,Office Supplies,Art,$13.59 ,$6.39 
+PD-754,"Fiskars 8"" Scissors, 2/Pa",Office Supplies,Supplies,$13.79 ,$1.24 
+PD-756,Belkin 7-Outlet SurgeMast,Office Supplies,Appliances,$13.97 ,$2.65 
+PD-758,"Adams Phone Message Book,",Office Supplies,Paper,$14.02 ,$2.52 
+PD-759,Tripp Lite Isotel 8 Ultra,Office Supplies,Appliances,$14.19 ,$0.85 
+PD-76,Newell 307,Office Supplies,Art,$1.82 ,$0.18 
+PD-761,GBC Laser Imprintable Bin,Office Supplies,Binders,$14.27 ,$1.00 
+PD-763,Model L Table or Wall-Mou,Office Supplies,Art,$14.39 ,$1.44 
+PD-766,Acco 6 Outlet Guardian Pr,Office Supplies,Appliances,$14.56 ,$6.99 
+PD-767,Panasonic KP-4ABK Battery,Office Supplies,Art,$14.64 ,$2.05 
+PD-768,XtraLife ClearVue Slant-D,Office Supplies,Binders,$14.68 ,$1.32 
+PD-769,Avery 490,Office Supplies,Labels,$14.80 ,$5.92 
+PD-77,Avery Hole Reinforcements,Office Supplies,Binders,$1.87 ,$0.99 
+PD-770,Avery 475,Office Supplies,Labels,$14.80 ,$1.33 
+PD-771,Holmes Replacement Filter,Office Supplies,Appliances,$14.81 ,$7.26 
+PD-773,Clear Mylar Reinforcing S,Office Supplies,Binders,$14.95 ,$3.14 
+PD-774,Pizazz Global Quick File,Office Supplies,Storage,$14.97 ,$5.84 
+PD-775,Boston 1900 Electric Penc,Office Supplies,Art,$14.98 ,$1.50 
+PD-779,Eldon Gobal File Keepers,Office Supplies,Storage,$15.14 ,$6.21 
+PD-78,3-ring staple pack,Office Supplies,Binders,$1.88 ,$0.85 
+PD-780,"GBC Clear Cover, 8-1/2 x ",Office Supplies,Binders,$15.16 ,$7.43 
+PD-781,Computer Printout Paper w,Office Supplies,Paper,$15.18 ,$2.88 
+PD-782,Xerox 1887,Office Supplies,Paper,$15.18 ,$2.28 
+PD-783,Poly Designer Cover & Bac,Office Supplies,Binders,$15.19 ,$7.60 
+PD-784,GBC Twin Loop Wire Bindin,Office Supplies,Binders,$15.22 ,$2.59 
+PD-786,"White Envelopes, White En",Office Supplies,Envelopes,$15.25 ,$6.86 
+PD-788,Honeywell Enviracaire Por,Office Supplies,Appliances,$15.34 ,$7.06 
+PD-79,"OIC #2 Pencils, Medium So",Office Supplies,Art,$1.88 ,$0.47 
+PD-790,Decoflex Hanging Personal,Office Supplies,Storage,$15.42 ,$3.24 
+PD-791,Decoflex Hanging Personal,Office Supplies,Storage,$15.42 ,$8.48 
+PD-792,#10 White Business Envelo,Office Supplies,Envelopes,$15.67 ,$4.39 
+PD-794,Hanging Personal Folder F,Office Supplies,Storage,$15.70 ,$0.79 
+PD-795,Ibico Laser Imprintable B,Office Supplies,Binders,$15.72 ,$4.24 
+PD-796,Acme Galleria Hot Forged ,Office Supplies,Supplies,$15.73 ,$8.18 
+PD-8,Avery Round Ring Poly Bin,Office Supplies,Binders,$0.85 ,$0.14 
+PD-80,Staples,Office Supplies,Fasteners,$1.88 ,$0.85 
+PD-807,Avery Recycled Flexi-View,Office Supplies,Binders,$16.03 ,$6.09 
+PD-808,Letter/Legal File Tote wi,Office Supplies,Storage,$16.06 ,$7.23 
+PD-81,Acco Expandable Hanging B,Office Supplies,Binders,$1.91 ,$0.38 
+PD-810,Fellowes Mighty 8 Compact,Office Supplies,Appliances,$16.22 ,$2.59 
+PD-812,JM Magazine Binder,Office Supplies,Binders,$16.51 ,$3.30 
+PD-814,"Tennsco Lockers, Gray",Office Supplies,Storage,$16.78 ,$6.38 
+PD-815,Acco Perma 3000 Stacking ,Office Supplies,Storage,$16.78 ,$3.19 
+PD-817,Avery Legal 4-Ring Binder,Office Supplies,Binders,$16.78 ,$1.01 
+PD-819,Brown Kraft Recycled Enve,Office Supplies,Envelopes,$16.98 ,$5.94 
+PD-82,C-Line Peel & Stick Add-O,Office Supplies,Binders,$1.91 ,$0.94 
+PD-821,GBC Recycled VeloBinder C,Office Supplies,Binders,$17.04 ,$6.30 
+PD-822,Advantus Rolling Storage ,Office Supplies,Storage,$17.15 ,$3.60 
+PD-823,Wilson Jones Internationa,Office Supplies,Binders,$17.30 ,$3.11 
+PD-824,Holmes 99% HEPA Air Purif,Office Supplies,Appliances,$17.33 ,$3.64 
+PD-826,"Acme 10"" Easy Grip Assist",Office Supplies,Supplies,$17.53 ,$6.49 
+PD-828,Inter-Office Recycled Env,Office Supplies,Envelopes,$17.58 ,$2.99 
+PD-829,Rogers Deluxe File Chest,Office Supplies,Storage,$17.58 ,$1.23 
+PD-83,Sanford Colorific Colored,Office Supplies,Art,$1.95 ,$0.74 
+PD-830,Wilson Jones Legal Size R,Office Supplies,Binders,$17.59 ,$8.27 
+PD-835,File Shuttle I and Handi-,Office Supplies,Storage,$17.81 ,$1.07 
+PD-836,BOSTON Model 1800 Electri,Office Supplies,Art,$17.98 ,$1.26 
+PD-838,Embossed Ink Jet Note Car,Office Supplies,Paper,$18.06 ,$7.04 
+PD-84,Wilson Jones Four-Pocket ,Office Supplies,Binders,$1.96 ,$0.16 
+PD-840,Xerox 1902,Office Supplies,Paper,$18.27 ,$2.56 
+PD-841,Xerox 1991,Office Supplies,Paper,$18.27 ,$3.29 
+PD-842,Acco 6 Outlet Guardian Pr,Office Supplies,Appliances,$18.32 ,$6.60 
+PD-843,Deluxe Heavy-Duty Vinyl R,Office Supplies,Binders,$18.34 ,$7.33 
+PD-849,Belkin F9H710-06 7 Outlet,Office Supplies,Appliances,$18.84 ,$5.09 
+PD-85,Alliance Big Bands Rubber,Office Supplies,Fasteners,$1.98 ,$0.28 
+PD-850,Flexible Leather- Look Cl,Office Supplies,Binders,$18.94 ,$3.03 
+PD-851,Xerox 1912,Office Supplies,Paper,$18.97 ,$7.97 
+PD-852,Xerox 1939,Office Supplies,Paper,$18.97 ,$6.83 
+PD-854,GBC DocuBind P50 Personal,Office Supplies,Binders,$19.19 ,$9.02 
+PD-855,Eldon ProFile File 'N Sto,Office Supplies,Storage,$19.31 ,$8.11 
+PD-857,Boston 1827 Commercial Ad,Office Supplies,Art,$19.83 ,$1.98 
+PD-858,Newell 345,Office Supplies,Art,$19.84 ,$1.98 
+PD-859,Newell 319,Office Supplies,Art,$19.84 ,$1.39 
+PD-860,Prismacolor Color Pencil ,Office Supplies,Art,$19.84 ,$8.13 
+PD-861,Newell 34,Office Supplies,Art,$19.84 ,$7.94 
+PD-863,Xerox 191,Office Supplies,Paper,$19.98 ,$6.99 
+PD-864,Xerox 1884,Office Supplies,Paper,$19.98 ,$1.60 
+PD-866,Southworth 25% Cotton Pre,Office Supplies,Paper,$19.98 ,$10.39 
+PD-867,Xerox Blank Computer Pape,Office Supplies,Paper,$19.98 ,$1.40 
+PD-87,"Avery Framed View Binder,",Office Supplies,Binders,$2.00 ,$0.72 
+PD-875,Boston 19500 Mighty Mite ,Office Supplies,Art,$20.15 ,$10.48 
+PD-88,Ideal Clamps,Office Supplies,Fasteners,$2.01 ,$0.76 
+PD-881,Tennsco Commercial Shelvi,Office Supplies,Storage,$20.34 ,$2.85 
+PD-882,Kensington 6 Outlet Guard,Office Supplies,Appliances,$20.48 ,$7.17 
+PD-884,Wilson Jones Century Plas,Office Supplies,Binders,$20.77 ,$9.97 
+PD-886,BOSTON Ranger #55 Pencil ,Office Supplies,Art,$20.79 ,$3.95 
+PD-887,Quality Park Security Env,Office Supplies,Envelopes,$20.94 ,$3.35 
+PD-89,Binney & Smith inkTank Er,Office Supplies,Art,$2.02 ,$1.11 
+PD-892,Premium Transparent Prese,Office Supplies,Binders,$20.98 ,$3.15 
+PD-893,"Tennsco Lockers, Sand",Office Supplies,Storage,$20.98 ,$9.86 
+PD-895,Xerox 1909,Office Supplies,Paper,$21.10 ,$3.59 
+PD-896,Xerox 1883,Office Supplies,Paper,$21.10 ,$3.59 
+PD-899,Boston 1730 StandUp Elect,Office Supplies,Art,$21.38 ,$3.63 
+PD-9,Acco 3-Hole Punch,Office Supplies,Binders,$0.88 ,$0.45 
+PD-900,Sortfiler Multipurpose Pe,Office Supplies,Storage,$21.39 ,$8.13 
+PD-901,Petty Cash Envelope,Office Supplies,Paper,$21.57 ,$11.86 
+PD-903,Tyvek  Top-Opening Peel &,Office Supplies,Envelopes,$21.74 ,$9.78 
+PD-904,Holmes HEPA Air Purifier,Office Supplies,Appliances,$21.78 ,$11.33 
+PD-905,Panasonic KP-310 Heavy-Du,Office Supplies,Art,$21.98 ,$7.69 
+PD-906,Boston 16801 Nautilus Bat,Office Supplies,Art,$22.01 ,$4.18 
+PD-908,Fellowes Advanced 8 Outle,Office Supplies,Appliances,$22.21 ,$6.22 
+PD-91,12 Colored Short Pencils,Office Supplies,Art,$2.08 ,$0.60 
+PD-911,Ink Jet Note and Greeting,Office Supplies,Paper,$22.48 ,$10.34 
+PD-912,Boston Electric Pencil Sh,Office Supplies,Art,$22.52 ,$10.36 
+PD-914,Lock-Up Easel 'Spel-Binde,Office Supplies,Binders,$22.82 ,$3.20 
+PD-915,"Xerox Color Copier Paper,",Office Supplies,Paper,$22.84 ,$12.56 
+PD-916,Xerox 1964,Office Supplies,Paper,$22.84 ,$2.28 
+PD-918,Belkin F5C206VTEL 6 Outle,Office Supplies,Appliances,$22.98 ,$11.49 
+PD-919,Boston KS Multi-Size Manu,Office Supplies,Art,$22.99 ,$2.30 
+PD-92,Kleencut Forged Office Sh,Office Supplies,Supplies,$2.08 ,$0.33 
+PD-920,Snap-A-Way Black Print Ca,Office Supplies,Paper,$23.31 ,$1.86 
+PD-921,Binding Machine Supplies,Office Supplies,Binders,$23.34 ,$4.90 
+PD-922,Mobile Personal File Cube,Office Supplies,Storage,$23.42 ,$7.49 
+PD-925,Eldon Mobile Mega Data Ca,Office Supplies,Storage,$23.65 ,$3.55 
+PD-926,Boston Home & Office Mode,Office Supplies,Art,$23.65 ,$9.93 
+PD-93,Sanford EarthWrite Recycl,Office Supplies,Art,$2.10 ,$0.36 
+PD-934,Recycled Interoffice Enve,Office Supplies,Envelopes,$23.99 ,$4.08 
+PD-936,Acco 7-Outlet Masterpiece,Office Supplies,Appliances,$24.32 ,$13.37 
+PD-937,Avery 4027 File Folder La,Office Supplies,Labels,$24.42 ,$3.42 
+PD-938,Xerox 1960,Office Supplies,Paper,$24.78 ,$4.71 
+PD-939,Xerox 1951,Office Supplies,Paper,$24.78 ,$6.94 
+PD-94,Letter or Legal Size Expa,Office Supplies,Envelopes,$2.13 ,$0.17 
+PD-940,IBM Multi-Purpose Copy Pa,Office Supplies,Paper,$24.78 ,$11.40 
+PD-941,Xerox 1988,Office Supplies,Paper,$24.78 ,$4.96 
+PD-942,Boston School Pro Electri,Office Supplies,Art,$24.78 ,$6.69 
+PD-947,Canvas Sectional Post Bin,Office Supplies,Binders,$25.46 ,$14.00 
+PD-950,Fellowes Neat Ideas Stora,Office Supplies,Storage,$25.98 ,$4.16 
+PD-954,Kensington 7 Outlet Maste,Office Supplies,Appliances,$26.22 ,$8.92 
+PD-955,Easy-staple paper,Office Supplies,Paper,$26.38 ,$5.54 
+PD-956,Xerox 1935,Office Supplies,Paper,$26.38 ,$1.58 
+PD-957,Fellowes Advanced Compute,Office Supplies,Appliances,$26.49 ,$14.04 
+PD-958,GBC Twin Loop Wire Bindin,Office Supplies,Binders,$26.62 ,$11.98 
+PD-96,Binney & Smith inkTank De,Office Supplies,Art,$2.15 ,$1.05 
+PD-964,Panasonic KP-350BK Electr,Office Supplies,Art,$27.66 ,$1.38 
+PD-965,Fellowes Super Stor/Drawe,Office Supplies,Storage,$27.75 ,$14.99 
+PD-966,Home/Office Personal File,Office Supplies,Storage,$27.81 ,$11.68 
+PD-97,Advantus Push Pins,Office Supplies,Fasteners,$2.18 ,$0.92 
+PD-972,Performers Binder/Pad Hol,Office Supplies,Binders,$28.03 ,$10.37 
+PD-973,Boston Model 1800 Electri,Office Supplies,Art,$28.15 ,$10.98 
+PD-974,Eldon Portable Mobile Man,Office Supplies,Storage,$28.28 ,$14.14 
+PD-977,Jet-Pak Recycled Peel 'N',Office Supplies,Envelopes,$28.71 ,$9.76 
+PD-978,Panasonic KP-380BK Classi,Office Supplies,Art,$28.78 ,$1.73 
+PD-98,Angle-D Binders with Lock,Office Supplies,Binders,$2.19 ,$0.44 
+PD-985,Acco Perma 2700 Stacking ,Office Supplies,Storage,$29.74 ,$15.46 
+PD-986,Sanford Prismacolor Profe,Office Supplies,Art,$29.95 ,$4.19 
+PD-99,GBC Imprintable Covers,Office Supplies,Binders,$2.20 ,$0.59 
+PD-993,Vinyl Sectional Post Bind,Office Supplies,Binders,$30.16 ,$2.41 
+PD-994,Panasonic KP-150 Electric,Office Supplies,Art,$30.19 ,$3.02 
+PD-995,Companion Letter/Legal Fi,Office Supplies,Storage,$30.21 ,$16.61 
+PD-997,3M Replacement Filter for,Office Supplies,Appliances,$30.34 ,$10.01 
+PD-998,Snap-A-Way Black Print Ca,Office Supplies,Paper,$30.35 ,$13.66 
+PD-999,Premier Elliptical Ring B,Office Supplies,Binders,$30.44 ,$5.48 
+PD-1003,Advantus Employee of the ,Furniture,Furnishings,$30.93 ,$8.04 
+PD-1013,"Howard Miller 12"" Round W",Furniture,Furnishings,$31.43 ,$2.83 
+PD-105,Eldon Pizzaz Desk Accesso,Furniture,Furnishings,$2.23 ,$1.05 
+PD-1055,O'Sullivan 4-Shelf Bookca,Furniture,Bookcases,$36.29 ,$6.53 
+PD-1060,Deflect-o RollaMat Studde,Furniture,Furnishings,$36.89 ,$2.95 
+PD-1062,Eldon 200 Class Desk Acce,Furniture,Furnishings,$37.55 ,$18.02 
+PD-1066,Eldon Delta Triangular Ch,Furniture,Furnishings,$37.93 ,$17.83 
+PD-1072,O'Sullivan 2-Shelf Heavy-,Furniture,Bookcases,$38.86 ,$1.94 
+PD-1081,Eldon Radial Chair Mat fo,Furniture,Furnishings,$39.98 ,$19.59 
+PD-1084,Dana Fluorescent Magnifyi,Furniture,Furnishings,$40.78 ,$14.68 
+PD-1085,Global Deluxe Stacking Ch,Furniture,Chairs,$40.78 ,$3.67 
+PD-1089,Dana Halogen Swing-Arm Ar,Furniture,Furnishings,$40.97 ,$22.12 
+PD-1095,Deflect-o EconoMat Studde,Furniture,Furnishings,$41.32 ,$7.44 
+PD-1096,"Howard Miller 13-3/4"" Dia",Furniture,Furnishings,$41.40 ,$13.25 
+PD-1100,Deflect-o DuraMat Lighwei,Furniture,Furnishings,$42.65 ,$17.91 
+PD-1101,Global Armless Task Chair,Furniture,Chairs,$42.69 ,$8.54 
+PD-1103,"Howard Miller 11-1/2"" Dia",Furniture,Furnishings,$43.13 ,$8.19 
+PD-1104,Eldon Advantage Chair Mat,Furniture,Furnishings,$43.31 ,$15.16 
+PD-1111,Tenex B1-RE Series Chair ,Furniture,Furnishings,$45.98 ,$3.68 
+PD-1112,Bush Westfield Collection,Furniture,Bookcases,$46.38 ,$15.31 
+PD-1115,O'Sullivan 3-Shelf Heavy-,Furniture,Bookcases,$46.51 ,$22.79 
+PD-1129,"Hon Metal Bookcases, Blac",Furniture,Bookcases,$48.27 ,$19.79 
+PD-1130,"Global Value Steno Chair,",Furniture,Chairs,$48.59 ,$19.44 
+PD-1131,"Global Task Chair, Black",Furniture,Chairs,$48.71 ,$25.33 
+PD-1132,Novimex Fabric Task Chair,Furniture,Chairs,$48.78 ,$8.78 
+PD-1140,Deflect-o Glass Clear Stu,Furniture,Furnishings,$49.74 ,$26.86 
+PD-1143,Lesro Sheffield Collectio,Furniture,Tables,$49.96 ,$21.48 
+PD-1152,KI Adjustable-Height Tabl,Furniture,Tables,$51.59 ,$9.80 
+PD-1153,Deflect-o EconoMat Nonstu,Furniture,Furnishings,$51.65 ,$8.78 
+PD-1154,"Howard Miller 11-1/2"" Dia",Furniture,Furnishings,$51.94 ,$20.26 
+PD-1165,Global Deluxe Steno Chair,Furniture,Chairs,$53.89 ,$9.16 
+PD-1168,Eldon Advantage Foldable ,Furniture,Furnishings,$54.20 ,$3.25 
+PD-1170,C-Line Cubicle Keepers Po,Furniture,Furnishings,$54.74 ,$9.31 
+PD-1171,Global Push Button Manage,Furniture,Chairs,$54.80 ,$10.41 
+PD-1177,Eldon Cleatmat Chair Mats,Furniture,Furnishings,$55.50 ,$8.88 
+PD-1179,"Tenex ""The Solids"" Textur",Furniture,Furnishings,$55.97 ,$16.79 
+PD-1185,"Padded Folding Chairs, Bl",Furniture,Chairs,$56.69 ,$14.17 
+PD-1186,KI Conference Tables,Furniture,Tables,$56.71 ,$23.25 
+PD-1187,Novimex High-Tech Fabric ,Furniture,Chairs,$56.78 ,$11.36 
+PD-1188,Situations Contoured Fold,Furniture,Chairs,$56.78 ,$2.84 
+PD-1201,Safco Value Mate Steel Bo,Furniture,Bookcases,$60.33 ,$9.65 
+PD-1202,Harbour Creations Steel F,Furniture,Chairs,$60.38 ,$3.62 
+PD-1203,Tenex Traditional Chairma,Furniture,Furnishings,$60.65 ,$12.74 
+PD-1208,Eldon Cleatmat Plus Chair,Furniture,Furnishings,$63.62 ,$9.54 
+PD-1209,Novimex Turbo Task Chair,Furniture,Chairs,$63.88 ,$8.94 
+PD-1210,"Howard Miller 16"" Diamete",Furniture,Furnishings,$63.94 ,$5.12 
+PD-1216,Harbour Creations 67200 S,Furniture,Chairs,$64.06 ,$9.61 
+PD-1218,Office Star - Ergonomical,Furniture,Chairs,$64.78 ,$23.97 
+PD-1222,O'Sullivan 5-Shelf Heavy-,Furniture,Bookcases,$65.55 ,$11.80 
+PD-1225,Bush Cubix Collection Boo,Furniture,Bookcases,$66.29 ,$3.31 
+PD-1232,Barricks Non-Folding Util,Furniture,Tables,$68.23 ,$6.14 
+PD-1237,Hon 4-Shelf Metal Bookcas,Furniture,Bookcases,$70.69 ,$14.14 
+PD-1238,Safco Value Mate Series S,Furniture,Bookcases,$70.98 ,$14.91 
+PD-1239,Tenex V2T-RE Standard Wei,Furniture,Furnishings,$70.98 ,$39.04 
+PD-1240,"Hon Metal Bookcases, Putt",Furniture,Bookcases,$70.98 ,$24.13 
+PD-1241,Luxo Adjustable Task Clam,Furniture,Furnishings,$71.07 ,$3.55 
+PD-1243,Office Star - Task Chair ,Furniture,Chairs,$72.78 ,$5.09 
+PD-1244,"Leather Task Chair, Black",Furniture,Chairs,$72.78 ,$26.93 
+PD-1245,Eldon ClusterMat Chair Ma,Furniture,Furnishings,$72.78 ,$39.30 
+PD-1246,Bevis Rectangular Confere,Furniture,Tables,$72.99 ,$19.71 
+PD-1247,BPI Conference Tables,Furniture,Tables,$73.03 ,$12.41 
+PD-1251,Bevis Steel Folding Chair,Furniture,Chairs,$76.76 ,$30.70 
+PD-1252,Global Deluxe Office Fabr,Furniture,Chairs,$76.78 ,$29.95 
+PD-1271,Global Low Back Tilter Ch,Furniture,Chairs,$80.78 ,$12.12 
+PD-1275,Global Geo Office Task Ch,Furniture,Chairs,$80.98 ,$42.11 
+PD-1279,Eldon Antistatic Chair Ma,Furniture,Furnishings,$84.23 ,$8.42 
+PD-1280,Deflect-o DuraMat Antista,Furniture,Furnishings,$84.27 ,$30.34 
+PD-1281,"Tenex 46"" x 60"" Computer ",Furniture,Furnishings,$84.78 ,$11.87 
+PD-1282,Bestar Classic Bookcase,Furniture,Bookcases,$84.99 ,$35.70 
+PD-1284,KI Adjustable-Height Tabl,Furniture,Tables,$85.98 ,$7.74 
+PD-1288,Hon 4060 Series Tables,Furniture,Tables,$89.57 ,$31.35 
+PD-1291,Global Leather Task Chair,Furniture,Chairs,$89.99 ,$44.10 
+PD-1295,Global Wood Trimmed Manag,Furniture,Chairs,$90.98 ,$32.75 
+PD-1296,Global Highback Leather T,Furniture,Chairs,$90.99 ,$35.49 
+PD-1297,Global Italian Leather Of,Furniture,Chairs,$91.69 ,$12.84 
+PD-1298,Bush Birmingham Collectio,Furniture,Bookcases,$91.69 ,$6.42 
+PD-1299,Sauder Camden County Coll,Furniture,Bookcases,$91.98 ,$12.88 
+PD-1305,Electrix Architect's Clam,Furniture,Furnishings,$95.46 ,$46.78 
+PD-1307,Global Super Steno Chair,Furniture,Chairs,$95.98 ,$34.55 
+PD-1308,O'Sullivan Cherrywood Est,Furniture,Bookcases,$96.24 ,$17.32 
+PD-1310,Hon Every-Day Chair Serie,Furniture,Chairs,$96.78 ,$13.55 
+PD-1311,Sauder Camden County Coll,Furniture,Bookcases,$97.73 ,$15.64 
+PD-1315,"GE 48"" Fluorescent Tube, ",Furniture,Furnishings,$99.23 ,$37.71 
+PD-1316,Bevis 36 x 72 Conference ,Furniture,Tables,$99.59 ,$5.98 
+PD-1321,O'Sullivan Plantations 2-,Furniture,Bookcases,$100.49 ,$16.08 
+PD-1328,Office Star Flex Back Sco,Furniture,Chairs,$100.89 ,$17.15 
+PD-1329,Global Fabric Manager's C,Furniture,Chairs,$100.98 ,$46.45 
+PD-1333,"Bush Andora Bookcase, Map",Furniture,Bookcases,$101.99 ,$17.34 
+PD-1334,Luxo Professional Combina,Furniture,Furnishings,$102.30 ,$56.27 
+PD-1335,Hon Comfortask Task/Swive,Furniture,Chairs,$102.58 ,$14.36 
+PD-1336,Sauder Camden County Barr,Furniture,Bookcases,$102.83 ,$15.42 
+PD-1337,O'Sullivan Living Dimensi,Furniture,Bookcases,$102.83 ,$41.13 
+PD-1338,Bevis 44 x 96 Conference ,Furniture,Tables,$102.95 ,$32.94 
+PD-1339,Luxo Professional Magnify,Furniture,Furnishings,$104.01 ,$37.44 
+PD-1341,Office Star - Mesh Screen,Furniture,Chairs,$104.78 ,$51.34 
+PD-1351,Global Deluxe High-Back O,Furniture,Chairs,$108.79 ,$50.04 
+PD-1352,BoxOffice By Design Recta,Furniture,Tables,$109.38 ,$39.38 
+PD-1353,Lesro Round Back Collecti,Furniture,Tables,$109.53 ,$15.33 
+PD-1356,Office Star - Contemporar,Furniture,Chairs,$110.98 ,$42.17 
+PD-1357,Rubbermaid ClusterMat Cha,Furniture,Furnishings,$110.98 ,$44.39 
+PD-1359,Balt Split Level Computer,Furniture,Tables,$111.00 ,$59.94 
+PD-1362,Bush Somerset Collection ,Furniture,Bookcases,$111.33 ,$43.42 
+PD-1363,Sauder Mission Library wi,Furniture,Bookcases,$111.33 ,$46.76 
+PD-1364,O'Sullivan Elevations Boo,Furniture,Bookcases,$111.33 ,$16.70 
+PD-1366,Hon Olson Stacker Stools,Furniture,Chairs,$112.65 ,$52.94 
+PD-1367,Office Star - Contemporar,Furniture,Chairs,$112.78 ,$43.99 
+PD-1372,Bevis Round Conference Ta,Furniture,Tables,$117.07 ,$24.59 
+PD-1374,Office Star - Contemporar,Furniture,Chairs,$117.88 ,$11.79 
+PD-1378,Bush Heritage Pine Collec,Furniture,Bookcases,$119.83 ,$23.97 
+PD-1384,Global Leather & Oak Exec,Furniture,Chairs,$120.71 ,$61.56 
+PD-1385,DMI Arturo Collection Mis,Furniture,Chairs,$120.78 ,$30.20 
+PD-1386,"Iceberg OfficeWorks 42"" R",Furniture,Tables,$120.78 ,$22.95 
+PD-1387,Novimex Swivel Fabric Tas,Furniture,Chairs,$120.78 ,$65.22 
+PD-1388,Global Airflow Leather Me,Furniture,Chairs,$120.78 ,$44.69 
+PD-1389,Chromcraft Round Conferen,Furniture,Tables,$122.00 ,$10.98 
+PD-1390,Global High-Back Leather ,Furniture,Chairs,$122.99 ,$23.37 
+PD-1391,Hon Mobius Operator's Cha,Furniture,Chairs,$122.99 ,$12.30 
+PD-1392,O'Sullivan Manor Hill 2-D,Furniture,Bookcases,$123.07 ,$40.61 
+PD-1394,Laminate Occasional Table,Furniture,Tables,$123.30 ,$46.86 
+PD-1401,Hon Non-Folding Utility T,Furniture,Tables,$127.45 ,$44.61 
+PD-1408,High-Back Leather Manager,Furniture,Chairs,$129.99 ,$32.50 
+PD-1410,Atlantic Metals Mobile 3-,Furniture,Bookcases,$130.49 ,$69.16 
+PD-1413,Hon Every-Day Series Mult,Furniture,Chairs,$131.59 ,$53.95 
+PD-1418,Tenex Antistatic Computer,Furniture,Furnishings,$136.78 ,$13.68 
+PD-1419,Bush Andora Conference Ta,Furniture,Tables,$136.78 ,$19.15 
+PD-1420,3M Polarizing Task Lamp w,Furniture,Furnishings,$136.98 ,$10.96 
+PD-1425,Global Leather Highback E,Furniture,Chairs,$140.69 ,$45.02 
+PD-1428,Chromcraft Rectangular Co,Furniture,Tables,$142.18 ,$38.39 
+PD-1432,Bevis Round Conference Ta,Furniture,Tables,$143.43 ,$7.17 
+PD-1433,Bevis Round Conference Ro,Furniture,Tables,$143.43 ,$7.17 
+PD-1434,Office Star - Mid Back Du,Furniture,Chairs,$144.88 ,$20.28 
+PD-1435,Sauder Inglewood Library ,Furniture,Bookcases,$145.33 ,$36.33 
+PD-1436,Rush Hierlooms Collection,Furniture,Bookcases,$145.33 ,$53.77 
+PD-1437,Sauder Facets Collection ,Furniture,Bookcases,$145.33 ,$78.48 
+PD-1438,Hon 2111 Invitation Serie,Furniture,Tables,$147.83 ,$20.70 
+PD-1439,Bush Advantage Collection,Furniture,Tables,$148.82 ,$25.30 
+PD-1441,O'Sullivan Living Dimensi,Furniture,Bookcases,$150.27 ,$67.62 
+PD-1442,Bush Mission Pointe Libra,Furniture,Bookcases,$150.98 ,$12.08 
+PD-1443,Global Manager's Adjustab,Furniture,Chairs,$150.98 ,$72.47 
+PD-1445,Tenex Chairmat w/ Average,Furniture,Furnishings,$151.36 ,$27.24 
+PD-1446,Hon Multipurpose Stacking,Furniture,Chairs,$151.62 ,$74.29 
+PD-1447,"SAFCO PlanMaster Boards, ",Furniture,Tables,$151.99 ,$13.68 
+PD-1448,Lifetime Advantage Foldin,Furniture,Chairs,$152.66 ,$65.64 
+PD-1452,Electrix Halogen Magnifie,Furniture,Furnishings,$155.44 ,$66.84 
+PD-1455,Hon Racetrack Conference ,Furniture,Tables,$157.51 ,$14.18 
+PD-1467,Luxo Professional Fluores,Furniture,Furnishings,$167.87 ,$65.47 
+PD-1469,Global Adaptabilities Con,Furniture,Tables,$168.59 ,$26.97 
+PD-1470,Hon Deluxe Fabric Upholst,Furniture,Chairs,$170.79 ,$42.70 
+PD-1471,Hon Deluxe Fabric Upholst,Furniture,Chairs,$170.79 ,$87.10 
+PD-1472,O'Sullivan Living Dimensi,Furniture,Bookcases,$170.83 ,$30.75 
+PD-1473,Hon 94000 Series Round Ta,Furniture,Tables,$177.71 ,$79.97 
+PD-1474,Global Commerce Series Lo,Furniture,Chairs,$179.89 ,$26.98 
+PD-1479,O'Sullivan 2-Door Barrist,Furniture,Bookcases,$180.98 ,$86.87 
+PD-1480,Global Ergonomic Managers,Furniture,Chairs,$180.98 ,$25.34 
+PD-1482,Hon GuestStacker Chair,Furniture,Chairs,$181.34 ,$32.64 
+PD-1484,Bush Cubix Conference Tab,Furniture,Tables,$184.78 ,$27.72 
+PD-1487,Safco Contoured Stacking ,Furniture,Chairs,$190.72 ,$78.20 
+PD-1489,Hon Deluxe Fabric Upholst,Furniture,Chairs,$195.18 ,$99.54 
+PD-1493,Global Commerce Series Hi,Furniture,Chairs,$199.49 ,$85.78 
+PD-1494,Global Deluxe High-Back M,Furniture,Chairs,$200.19 ,$54.05 
+PD-1495,Riverside Furniture Oval ,Furniture,Tables,$200.80 ,$18.07 
+PD-1496,Riverside Furniture Stanw,Furniture,Tables,$200.80 ,$38.15 
+PD-1497,Global Executive Mid-Back,Furniture,Chairs,$203.69 ,$85.55 
+PD-1498,Atlantic Metals Mobile 5-,Furniture,Bookcases,$204.67 ,$32.75 
+PD-1502,Global Enterprise Series ,Furniture,Chairs,$207.18 ,$12.43 
+PD-1504,Hon 2111 Invitation Serie,Furniture,Tables,$209.37 ,$98.40 
+PD-1506,Bevis Boat-Shaped Confere,Furniture,Tables,$209.69 ,$81.78 
+PD-1508,Global Leather and Oak Ex,Furniture,Chairs,$210.69 ,$35.82 
+PD-1510,Global Enterprise Series ,Furniture,Chairs,$216.78 ,$86.71 
+PD-1511,Chromcraft Bull-Nose Wood,Furniture,Tables,$217.85 ,$21.79 
+PD-1513,SAFCO Arco Folding Chair,Furniture,Chairs,$220.96 ,$119.32 
+PD-1515,Hon 4070 Series Pagoda Ro,Furniture,Chairs,$224.69 ,$15.73 
+PD-1516,Hon 2090 “Pillow Soft” Se,Furniture,Chairs,$224.78 ,$89.91 
+PD-1517,Atlantic Metals Mobile 4-,Furniture,Bookcases,$224.78 ,$114.64 
+PD-1518,Bretford Rectangular Conf,Furniture,Tables,$225.68 ,$88.01 
+PD-1519,Hon Practical Foundations,Furniture,Tables,$227.55 ,$118.33 
+PD-1521,Hon 5100 Series Wood Tabl,Furniture,Tables,$232.78 ,$121.05 
+PD-1522,Bevis Traditional Confere,Furniture,Tables,$233.35 ,$128.34 
+PD-1523,Hon 4070 Series Pagoda Ar,Furniture,Chairs,$233.38 ,$116.69 
+PD-1525,Global Comet Stacking Arm,Furniture,Chairs,$239.24 ,$40.67 
+PD-1530,Bretford CR4500 Series Sl,Furniture,Tables,$243.75 ,$119.44 
+PD-1532,SAFCO PlanMaster Heigh-Ad,Furniture,Tables,$244.62 ,$22.02 
+PD-1534,Hon Pagoda Stacking Chair,Furniture,Chairs,$256.78 ,$105.28 
+PD-1536,"Bevis Round Bullnose 29"" ",Furniture,Tables,$259.71 ,$103.88 
+PD-1537,Bevis Oval Conference Tab,Furniture,Tables,$260.98 ,$122.66 
+PD-1539,Hon Olson Stacker Chairs,Furniture,Chairs,$264.78 ,$45.01 
+PD-1541,Balt Solid Wood Round Tab,Furniture,Tables,$267.89 ,$75.01 
+PD-1548,Office Star - Professiona,Furniture,Chairs,$280.78 ,$39.31 
+PD-1554,Bush Advantage Collection,Furniture,Tables,$296.95 ,$106.90 
+PD-1555,GuestStacker Chair with C,Furniture,Chairs,$297.41 ,$59.48 
+PD-1557,Office Impressions End Ta,Furniture,Tables,$303.76 ,$154.92 
+PD-1558,Global Leather Executive ,Furniture,Chairs,$315.89 ,$47.38 
+PD-1560,"Chromcraft 48"" x 96"" Race",Furniture,Tables,$320.64 ,$92.99 
+PD-1565,Chromcraft Bull-Nose Wood,Furniture,Tables,$330.59 ,$181.82 
+PD-1566,Bretford “Just In Time” H,Furniture,Tables,$333.92 ,$156.94 
+PD-1571,Hon 4700 Series Mobuis Mi,Furniture,Chairs,$355.98 ,$138.83 
+PD-1578,Chromcraft Bull-Nose Wood,Furniture,Tables,$385.69 ,$196.70 
+PD-1583,Global Troy Executive Lea,Furniture,Chairs,$400.78 ,$140.27 
+PD-1584,Sauder Forest Hills Libra,Furniture,Bookcases,$400.78 ,$64.13 
+PD-1585,Bretford CR8500 Series Me,Furniture,Tables,$400.98 ,$184.45 
+PD-1590,Global Comet Stacking Arm,Furniture,Chairs,$422.51 ,$88.73 
+PD-1591,Global Adaptabilites Book,Furniture,Bookcases,$430.98 ,$120.67 
+PD-1593,Riverside Palais Royal La,Furniture,Bookcases,$440.49 ,$132.15 
+PD-1596,HON 5400 Series Task Chai,Furniture,Chairs,$490.69 ,$152.11 
+PD-170,"Master Caster Door Stop, ",Furniture,Furnishings,$2.91 ,$1.11 
+PD-189,Stackable Trays,Furniture,Furnishings,$3.08 ,$0.49 
+PD-213,OIC Stacking Trays,Furniture,Furnishings,$3.34 ,$0.33 
+PD-214,Westinghouse Clip-On Goos,Furniture,Furnishings,$3.35 ,$1.00 
+PD-215,Eldon 100 Class Desk Acce,Furniture,Furnishings,$3.37 ,$0.71 
+PD-236,3M Hangers With Command A,Furniture,Furnishings,$3.70 ,$0.33 
+PD-25,Longer-Life Soft White Bu,Furniture,Furnishings,$1.23 ,$0.18 
+PD-250,Magna Visual Magnetic Pic,Furniture,Furnishings,$3.86 ,$1.12 
+PD-267,Stacking Trays by OIC,Furniture,Furnishings,$3.98 ,$1.95 
+PD-275,Eldon Image Series Black ,Furniture,Furnishings,$4.14 ,$1.12 
+PD-288,Dana Swing-Arm Lamps,Furniture,Furnishings,$4.27 ,$0.60 
+PD-304,Advantus Panel Wall Acryl,Furniture,Furnishings,$4.38 ,$1.71 
+PD-311,"Stacking Tray, Side-Loadi",Furniture,Furnishings,$4.48 ,$0.36 
+PD-325,C-Line Cubicle Keepers Po,Furniture,Furnishings,$4.73 ,$0.76 
+PD-336,Eldon Regeneration Recycl,Furniture,Furnishings,$4.84 ,$0.68 
+PD-345,Ultra Door Push Plate,Furniture,Furnishings,$4.91 ,$0.98 
+PD-346,C-Line Magnetic Cubicle K,Furniture,Furnishings,$4.94 ,$0.79 
+PD-347,Eldon 300 Class Desk Acce,Furniture,Furnishings,$4.95 ,$0.74 
+PD-348,DAX Value U-Channel Docum,Furniture,Furnishings,$4.97 ,$2.68 
+PD-359,Eldon 200 Class Desk Acce,Furniture,Furnishings,$5.02 ,$1.00 
+PD-36,Regeneration Desk Collect,Furniture,Furnishings,$1.41 ,$0.20 
+PD-361,DAX Copper Panel Document,Furniture,Furnishings,$5.03 ,$0.75 
+PD-366,"Master Caster Door Stop, ",Furniture,Furnishings,$5.08 ,$0.71 
+PD-396,"Master Big Foot Doorstop,",Furniture,Furnishings,$5.28 ,$0.48 
+PD-405,DAX Wood Document Frame,Furniture,Furnishings,$5.49 ,$2.42 
+PD-406,DAX Wood Document Frame.,Furniture,Furnishings,$5.49 ,$2.42 
+PD-408,G.E. Halogen Desk Lamp Bu,Furniture,Furnishings,$5.58 ,$2.57 
+PD-419,DAX Cubicle Frames - 8x10,Furniture,Furnishings,$5.77 ,$2.89 
+PD-429,DAX Clear Channel Poster ,Furniture,Furnishings,$5.83 ,$1.22 
+PD-432,Eldon Wave Desk Accessori,Furniture,Furnishings,$5.89 ,$2.53 
+PD-450,Deflect-O Glasstique Clea,Furniture,Furnishings,$6.16 ,$0.55 
+PD-456,Eldon 200 Class Desk Acce,Furniture,Furnishings,$6.28 ,$1.13 
+PD-457,Eldon 200 Class Desk Acce,Furniture,Furnishings,$6.28 ,$0.94 
+PD-466,"6"" Cubicle Wall Clock, Bl",Furniture,Furnishings,$6.47 ,$0.58 
+PD-50,Nu-Dell EZ-Mount Plastic ,Furniture,Furnishings,$1.58 ,$0.33 
+PD-505,Document Clip Frames,Furniture,Furnishings,$6.67 ,$1.20 
+PD-525,Eldon Expressions Wood an,Furniture,Furnishings,$6.98 ,$3.35 
+PD-529,Eldon 400 Class Desk Acce,Furniture,Furnishings,$7.00 ,$1.40 
+PD-535,"Master Caster Door Stop, ",Furniture,Furnishings,$7.28 ,$3.86 
+PD-543,Eldon Expressions Wood De,Furniture,Furnishings,$7.38 ,$2.58 
+PD-546,3M Polarizing Light Filte,Furniture,Furnishings,$7.46 ,$3.13 
+PD-549,DAX Charcoal/Nickel-Tone ,Furniture,Furnishings,$7.58 ,$0.76 
+PD-560,Staple-based wall hanging,Furniture,Furnishings,$7.96 ,$3.10 
+PD-563,12-1/2 Diameter Round Wal,Furniture,Furnishings,$7.99 ,$0.80 
+PD-576,Executive Impressions 8-1,Furniture,Furnishings,$8.32 ,$3.91 
+PD-579,Ultra Door Pull Handle,Furniture,Furnishings,$8.42 ,$3.28 
+PD-584,"DAX Cubicle Frames, 8-1/2",Furniture,Furnishings,$8.57 ,$4.37 
+PD-59,Eldon Wave Desk Accessori,Furniture,Furnishings,$1.66 ,$0.32 
+PD-590,Dax Clear Box Frame,Furniture,Furnishings,$8.73 ,$4.02 
+PD-595,"Contract Clock, 14"", Brow",Furniture,Furnishings,$8.79 ,$0.62 
+PD-600,Nu-Dell Float Frame 11 x ,Furniture,Furnishings,$8.98 ,$0.63 
+PD-606,Anderson Hickey Conga Tab,Furniture,Tables,$9.14 ,$0.46 
+PD-620,Eldon Expressions Punched,Furniture,Furnishings,$9.38 ,$1.69 
+PD-621,DAX Two-Tone Rosewood/Bla,Furniture,Furnishings,$9.48 ,$4.27 
+PD-627,Eldon Expressions Desk Ac,Furniture,Furnishings,$9.65 ,$4.83 
+PD-631,Staple-based wall hanging,Furniture,Furnishings,$9.74 ,$4.87 
+PD-632,Advantus Panel Wall Certi,Furniture,Furnishings,$9.76 ,$0.59 
+PD-638,Eldon Expressions Wood an,Furniture,Furnishings,$9.98 ,$4.79 
+PD-663,Eldon Expressions Punched,Furniture,Furnishings,$10.64 ,$4.79 
+PD-666,Executive Impressions 16-,Furniture,Furnishings,$10.69 ,$5.56 
+PD-67,Eldon Regeneration Recycl,Furniture,Furnishings,$1.74 ,$0.61 
+PD-672,Howard Miller Distant Tim,Furniture,Furnishings,$10.97 ,$4.06 
+PD-695,"Executive Impressions 10""",Furniture,Furnishings,$11.76 ,$6.47 
+PD-710,Aluminum Document Frame,Furniture,Furnishings,$12.22 ,$0.86 
+PD-718,Eldon Image Series Desk A,Furniture,Furnishings,$12.35 ,$6.05 
+PD-727,Nu-Dell Executive Frame,Furniture,Furnishings,$12.64 ,$6.07 
+PD-733,"Tensor ""Hersey Kiss"" Styl",Furniture,Furnishings,$12.99 ,$2.34 
+PD-743,Electrix 20W Halogen Repl,Furniture,Furnishings,$13.40 ,$6.83 
+PD-753,9-3/4 Diameter Round Wall,Furniture,Furnishings,$13.79 ,$5.38 
+PD-760,Coloredge Poster Frame,Furniture,Furnishings,$14.20 ,$0.85 
+PD-762,Nu-Dell Leatherette Frame,Furniture,Furnishings,$14.34 ,$2.29 
+PD-772,Tensor Computer Mounted L,Furniture,Furnishings,$14.89 ,$7.45 
+PD-776,GE 4 Foot Flourescent Tub,Furniture,Furnishings,$14.98 ,$2.10 
+PD-778,Flat Face Poster Frame,Furniture,Furnishings,$15.07 ,$6.78 
+PD-785,Eldon Expressions Desk Ac,Furniture,Furnishings,$15.23 ,$4.42 
+PD-787,"Linden 10"" Round Wall Clo",Furniture,Furnishings,$15.28 ,$1.22 
+PD-789,Eldon Image Series Desk A,Furniture,Furnishings,$15.38 ,$5.85 
+PD-793,Artistic Insta-Plaque,Furniture,Furnishings,$15.68 ,$1.25 
+PD-797,"Ultra Door Kickplate, 8""H",Furniture,Furnishings,$15.82 ,$8.39 
+PD-801,Tenex Chairmats For Use W,Furniture,Furnishings,$15.98 ,$2.24 
+PD-803,Telescoping Adjustable Fl,Furniture,Furnishings,$15.99 ,$1.44 
+PD-806,Tensor Track Tree Floor L,Furniture,Furnishings,$15.99 ,$2.88 
+PD-809,Contemporary Wood/Metal F,Furniture,Furnishings,$16.16 ,$1.13 
+PD-816,36X48 HARDFLOOR CHAIRMAT,Furniture,Furnishings,$16.78 ,$1.34 
+PD-820,Tensor Brushed Steel Torc,Furniture,Furnishings,$16.99 ,$1.36 
+PD-825,Bush Westfield Collection,Furniture,Bookcases,$17.39 ,$8.18 
+PD-831,"Executive Impressions 12""",Furniture,Furnishings,$17.67 ,$6.71 
+PD-833,"Seth Thomas 13 1/2"" Wall ",Furniture,Furnishings,$17.78 ,$7.82 
+PD-834,"Executive Impressions 14""",Furniture,Furnishings,$17.78 ,$3.73 
+PD-839,"Executive Impressions 14""",Furniture,Furnishings,$18.18 ,$8.00 
+PD-846,SAFCO Optional Arm Kit fo,Furniture,Chairs,$18.65 ,$3.36 
+PD-847,Executive Impressions 13-,Furniture,Furnishings,$18.70 ,$9.16 
+PD-856,Floodlight Indoor Halogen,Furniture,Furnishings,$19.40 ,$1.75 
+PD-862,Luxo Economy Swing Arm La,Furniture,Furnishings,$19.94 ,$9.37 
+PD-865,24-Hour Round Wall Clock,Furniture,Furnishings,$19.98 ,$9.39 
+PD-876,"DAX Metal Frame, Desktop,",Furniture,Furnishings,$20.24 ,$1.62 
+PD-877,DAX Two-Tone Silver Metal,Furniture,Furnishings,$20.24 ,$4.05 
+PD-878,DAX Contemporary Wood Fra,Furniture,Furnishings,$20.24 ,$4.05 
+PD-879,"Seth Thomas 8 1/2"" Cubicl",Furniture,Furnishings,$20.28 ,$7.50 
+PD-880,"Career Cubicle Clock, 8 1",Furniture,Furnishings,$20.28 ,$8.52 
+PD-888,GE General Use Halogen Bu,Furniture,Furnishings,$20.94 ,$5.44 
+PD-894,Magnifier Swing Arm Lamp,Furniture,Furnishings,$20.98 ,$4.20 
+PD-897,DAX Black Cherry Wood-Ton,Furniture,Furnishings,$21.18 ,$6.99 
+PD-898,DAX Natural Wood-Tone Pos,Furniture,Furnishings,$21.18 ,$9.32 
+PD-90,"Master Caster Door Stop, ",Furniture,Furnishings,$2.03 ,$0.55 
+PD-902,DataProducts Ampli Magnif,Furniture,Furnishings,$21.65 ,$3.25 
+PD-909,"Executive Impressions 14""",Furniture,Furnishings,$22.23 ,$10.00 
+PD-910,"Executive Impressions 14""",Furniture,Furnishings,$22.23 ,$4.67 
+PD-917,"Seth Thomas 12"" Clock w/ ",Furniture,Furnishings,$22.98 ,$7.58 
+PD-924,"Seth Thomas 14"" Putty-Col",Furniture,Furnishings,$23.47 ,$9.39 
+PD-930,Westinghouse Floor Lamp w,Furniture,Furnishings,$23.99 ,$4.08 
+PD-935,Sauder Barrister Bookcase,Furniture,Bookcases,$24.29 ,$4.13 
+PD-946,Tenex Contemporary Contur,Furniture,Furnishings,$25.38 ,$4.82 
+PD-948,Eldon 500 Class Desk Acce,Furniture,Furnishings,$25.58 ,$2.30 
+PD-949,Tenex Traditional Chairma,Furniture,Furnishings,$25.78 ,$13.15 
+PD-95,Acrylic Self-Standing Des,Furniture,Furnishings,$2.14 ,$0.45 
+PD-951,Global Stack Chair withou,Furniture,Chairs,$25.98 ,$13.77 
+PD-952,"Seth Thomas 16"" Steel Cas",Furniture,Furnishings,$25.98 ,$4.16 
+PD-953,"Computer Room Manger, 14""",Furniture,Furnishings,$25.98 ,$5.20 
+PD-959,Hon 61000 Series Interact,Furniture,Tables,$26.66 ,$12.00 
+PD-961,Global Chrome Stack Chair,Furniture,Chairs,$27.42 ,$7.95 
+PD-975,"Tenex Carpeted, Granite-L",Furniture,Furnishings,$28.28 ,$5.94 
+PD-976,"Seth Thomas 14"" Day/Date ",Furniture,Furnishings,$28.48 ,$14.81 
+PD-982,Deflect-o SuperTray Unbre,Furniture,Furnishings,$29.18 ,$13.42 
+PD-988,Global Stack Chair with A,Furniture,Chairs,$29.98 ,$1.50 
+PD-996,Bush Westfield Collection,Furniture,Bookcases,$30.29 ,$2.73 
+PD-1015,iPhone 12,Electronics,Smartphones,$799.00 ,$499.00 
+PD-1016,iPad Pro,Electronics,Tablets,$999.00 ,$649.00 
+PD-1019,AirPods Pro,Electronics,Earbuds,$249.00 ,$159.00 
+PD-1021,iPhone 11,Electronics,Smartphones,$699.00 ,$429.00 
+PD-1022,HomePod Mini,Electronics,Smart Speakers,$99.00 ,$55.00 
+PD-1025,iPad Mini (6th Gen),Electronics,Tablets,$499.00 ,$329.00 
+PD-1026,iPhone SE (2nd Gen),Electronics,Smartphones,$399.00 ,$249.00 
+PD-1027,Apple TV 4K (2021),Electronics,Streaming Device,$179.00 ,$129.00 
+PD-103,Beats Studio Buds,Electronics,Earbuds,$149.00 ,$99.00 
+PD-1030,iPhone XR,Electronics,Smartphones,$499.00 ,$299.00 
+PD-1031,iPad Air (4th Gen),Electronics,Tablets,$599.00 ,$399.00 
+PD-1034,iPod Touch (7th Gen),Electronics,Media Players,$199.00 ,$99.00 
+PD-1039,iPhone XS Max,Electronics,Smartphones,"$1,099.00 ",$699.00 
+PD-1040,iPad Pro (2020),Electronics,Tablets,$999.00 ,$649.00 
+PD-1017,MacBook Air (M1),Computers,Laptops,$999.00 ,$699.00 
+PD-1018,MacBook Pro (M1),Computers,Laptops,"$1,299.00 ",$899.00 
+PD-1020,"iMac (24-inch, M1)",Computers,Desktops,"$1,299.00 ",$849.00 
+PD-1028,Mac Mini (M1),Computers,Desktops,$699.00 ,$459.00 
+PD-1032,Pro Display XDR,Computers,Displays,"$4,999.00 ","$2,999.00 "
+PD-1033,Mac Pro,Computers,Desktops,"$5,999.00 ","$3,999.00 "
+PD-1023,Magic Keyboard for iPad Pro,Accessories,Keyboards,$349.00 ,$199.00 
+PD-1024,Apple Pencil (2nd Gen),Accessories,Stylus,$129.00 ,$79.00 
+PD-1035,AirTag,Accessories,Trackers,$29.00 ,$15.00 
+PD-1036,Smart Keyboard for iPad,Accessories,Keyboards,$159.00 ,$89.00 
+PD-1037,MagSafe Charger,Accessories,Chargers,$39.00 ,$19.00 
+PD-1038,MagSafe Duo Charger,Accessories,Chargers,$129.00 ,$79.00 
+PD-1041,Magic Mouse 2,Accessories,Mouse,$79.00 ,$39.00 
