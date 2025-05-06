@@ -4,7 +4,8 @@
 
 ## Power BI Screenshoots / Snapshots:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/173275a4-8066-4d69-9e04-77637b805310" alt="Default Dashboard" />
+  <img src="https://github.com/user-attachments/assets/441c86c3-d05d-4141-9a26-57f3d15c0a96
+" />
   <br>
   Default Dashboard
 </p>
@@ -12,7 +13,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd5b26d1-9334-4c33-b5ad-18ef3fc49ca4" alt="Filter Panel" />
+  <img src="https://github.com/user-attachments/assets/358a3faf-b604-4e49-92bd-6673f2e20b72" />
   <br>
   Filter Panel
 </p>
@@ -20,7 +21,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6e48c6c-5dce-4585-9454-74ec1fa6d9a1" alt="Year 2020" />
+  <img src="https://github.com/user-attachments/assets/b14604bd-b315-4400-ba0f-1ecd022d45cb" />
   <br>
   Year 2020
 </p>
@@ -28,7 +29,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b78c644-5c46-4382-89b6-f9341cf3aaae" alt="Year 2021" />
+  <img src="https://github.com/user-attachments/assets/006fc5b6-ab15-485a-b9b4-65a141ab60b8" />
   <br>
   Year 2021
 </p>
@@ -36,7 +37,8 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd47c2e8-c9d6-407b-856a-add9f9efd004" alt="Year 2022" />
+  <img src="https://github.com/user-attachments/assets/9975e755-0f7c-440d-80f2-9e6a67079d7b"
+ />
   <br>
   Year 2022
 </p>
@@ -44,7 +46,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2684ee21-7fad-4176-aeca-98ad19d3dce2" alt="Year 2023" />
+  <img src="https://github.com/user-attachments/assets/2684ee21-7fad-4176-aeca-98ad19d3dce2"/>
   <br>
   Year 2023
 </p>
@@ -52,7 +54,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3fedd7d7-ae95-4cc7-ad48-d953d89fd592" alt="Year 2024" />
+  <img src="https://github.com/user-attachments/assets/08061b61-c23b-4137-93f4-29ccd278a06c"/>
   <br>
   Year 2024
 </p>
