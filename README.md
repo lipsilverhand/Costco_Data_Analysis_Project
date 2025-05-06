@@ -2,7 +2,7 @@
 
 ![images](https://github.com/user-attachments/assets/af740559-c15b-45f2-9d79-92ca8bef85d9)
 
-# Power BI Screenshoots / Snapshots:
+## Power BI Screenshoots / Snapshots:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/173275a4-8066-4d69-9e04-77637b805310" alt="Default Dashboard" />
   <br>
@@ -60,9 +60,16 @@
 
 
 
-
+## Financial Metrics:
 Revenue = quantity * unit price
 
 Net sale = revenue * (1 - discount)
 
 Gross profit = Net sale - Cogs * quantity
+
+## DAX queries:
+
+
+## Findings and Conclusion (Insights):
+
+
