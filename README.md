@@ -1,4 +1,4 @@
-# Costco_Data_Analysis_Project
+# Costco Data Analysis Power Bi Dashboard Project
 
 ![images](https://github.com/user-attachments/assets/af740559-c15b-45f2-9d79-92ca8bef85d9)
 
