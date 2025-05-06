@@ -54,7 +54,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08061b61-c23b-4137-93f4-29ccd278a06c"/>
+  <img src="https://github.com/user-attachments/assets/0379d13d-51af-4ef7-b5cd-4309b96bf93d"/>
   <br>
   Year 2024
 </p>
