@@ -4,8 +4,7 @@
 
 ## Power BI Screenshoots / Snapshots:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/441c86c3-d05d-4141-9a26-57f3d15c0a96
-" />
+  <img src="https://github.com/user-attachments/assets/441c86c3-d05d-4141-9a26-57f3d15c0a96" />
   <br>
   Default Dashboard
 </p>
