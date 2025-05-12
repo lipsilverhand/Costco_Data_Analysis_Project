@@ -2,7 +2,7 @@
 
 ![images](https://github.com/user-attachments/assets/af740559-c15b-45f2-9d79-92ca8bef85d9)
 
-## Power BI Screenshoots / Snapshots:
+## Power BI Screenshoots /https://avatars.githubusercontent.com/u/80614276?v=4 Snapshots:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/441c86c3-d05d-4141-9a26-57f3d15c0a96" />
   <br>
